@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-18T16:43:34.589Z",
+  "updatedAt": "2026-08-18T16:43:51.361Z",
   "problems": [
     {
       "frontendId": "322",
@@ -23,6 +23,26 @@
           "path": "0322-coin-change/0322-coin-change.cpp",
           "sha": "e44465b16bf5f0d7c424f5af4b3fa577332a3007",
           "lastSyncedAt": "2026-08-18T16:43:34.589Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "518",
+      "title": "Coin Change II",
+      "slug": "coin-change-ii",
+      "problemName": "0518-coin-change-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change-ii/",
+      "folderPath": "0518-coin-change-ii/",
+      "readmePath": "0518-coin-change-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0518-coin-change-ii.cpp",
+          "path": "0518-coin-change-ii/0518-coin-change-ii.cpp",
+          "sha": "c252cfe5e95f77e69dd06475ab8388fb03afd0ed",
+          "lastSyncedAt": "2026-08-18T16:43:51.361Z"
         }
       ]
     },
