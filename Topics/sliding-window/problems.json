@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-18T16:51:48.985Z",
+  "updatedAt": "2026-08-18T17:05:12.789Z",
   "problems": [
     {
       "frontendId": "239",
@@ -22,7 +22,7 @@
           "filename": "0239-sliding-window-maximum.cpp",
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.cpp",
           "sha": "700a5a110766043e6da714cb8de7588eac584e40",
-          "lastSyncedAt": "2026-08-18T16:51:48.985Z"
+          "lastSyncedAt": "2026-08-18T17:05:12.789Z"
         }
       ]
     }
