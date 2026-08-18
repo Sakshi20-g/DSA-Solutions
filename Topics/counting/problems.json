@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting",
+    "name": "Counting"
+  },
+  "updatedAt": "2026-08-18T16:44:14.331Z",
+  "problems": [
+    {
+      "frontendId": "3890",
+      "title": "Integers With Multiple Sum of Two Cubes",
+      "slug": "integers-with-multiple-sum-of-two-cubes",
+      "problemName": "3890-integers-with-multiple-sum-of-two-cubes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integers-with-multiple-sum-of-two-cubes/",
+      "folderPath": "3890-integers-with-multiple-sum-of-two-cubes/",
+      "readmePath": "3890-integers-with-multiple-sum-of-two-cubes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3890-integers-with-multiple-sum-of-two-cubes.cpp",
+          "path": "3890-integers-with-multiple-sum-of-two-cubes/3890-integers-with-multiple-sum-of-two-cubes.cpp",
+          "sha": "6806c3f6d4194aaa195b4931b55697b430a0db6c",
+          "lastSyncedAt": "2026-08-18T16:44:14.331Z"
+        }
+      ]
+    }
+  ]
+}
