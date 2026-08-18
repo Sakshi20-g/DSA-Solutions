@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-18T16:50:14.761Z",
+  "updatedAt": "2026-08-18T16:50:41.809Z",
   "problems": [
     {
       "frontendId": "67",
@@ -42,7 +42,7 @@
           "filename": "0516-longest-palindromic-subsequence.cpp",
           "path": "0516-longest-palindromic-subsequence/0516-longest-palindromic-subsequence.cpp",
           "sha": "13622c815395322da540ccedab9d1df7f279a9c3",
-          "lastSyncedAt": "2026-08-18T16:44:00.594Z"
+          "lastSyncedAt": "2026-08-18T16:50:41.809Z"
         }
       ]
     },
