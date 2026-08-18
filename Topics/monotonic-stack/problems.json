@@ -4,8 +4,28 @@
     "slug": "monotonic-stack",
     "name": "Monotonic Stack"
   },
-  "updatedAt": "2026-08-18T16:45:54.933Z",
+  "updatedAt": "2026-08-18T16:46:37.226Z",
   "problems": [
+    {
+      "frontendId": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "problemName": "0085-maximal-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+      "folderPath": "0085-maximal-rectangle/",
+      "readmePath": "0085-maximal-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0085-maximal-rectangle.cpp",
+          "path": "0085-maximal-rectangle/0085-maximal-rectangle.cpp",
+          "sha": "f4fb4717c7b2a73224372650d2814cfe1aaf2bcd",
+          "lastSyncedAt": "2026-08-18T16:46:37.226Z"
+        }
+      ]
+    },
     {
       "frontendId": "1944",
       "title": "Number of Visible People in a Queue",
