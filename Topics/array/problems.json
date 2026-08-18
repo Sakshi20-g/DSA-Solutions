@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-18T16:51:11.678Z",
+  "updatedAt": "2026-08-18T16:51:31.040Z",
   "problems": [
     {
       "frontendId": "85",
@@ -162,7 +162,7 @@
           "filename": "3867-sum-of-gcd-of-formed-pairs.cpp",
           "path": "3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.cpp",
           "sha": "038497c44659485e080fc16f0829de220a6403f0",
-          "lastSyncedAt": "2026-08-18T16:45:14.111Z"
+          "lastSyncedAt": "2026-08-18T16:51:31.040Z"
         }
       ]
     },
