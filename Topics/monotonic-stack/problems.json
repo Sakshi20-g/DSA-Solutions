@@ -4,7 +4,7 @@
     "slug": "monotonic-stack",
     "name": "Monotonic Stack"
   },
-  "updatedAt": "2026-08-18T17:05:22.763Z",
+  "updatedAt": "2026-08-18T17:05:52.296Z",
   "problems": [
     {
       "frontendId": "85",
@@ -22,7 +22,7 @@
           "filename": "0085-maximal-rectangle.cpp",
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.cpp",
           "sha": "f4fb4717c7b2a73224372650d2814cfe1aaf2bcd",
-          "lastSyncedAt": "2026-08-18T16:52:23.026Z"
+          "lastSyncedAt": "2026-08-18T17:05:52.296Z"
         }
       ]
     },
