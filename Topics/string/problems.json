@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-18T17:04:34.324Z",
+  "updatedAt": "2026-08-18T17:04:48.192Z",
   "problems": [
     {
       "frontendId": "67",
@@ -122,7 +122,7 @@
           "filename": "3884-first-matching-character-from-both-ends.cpp",
           "path": "3884-first-matching-character-from-both-ends/3884-first-matching-character-from-both-ends.cpp",
           "sha": "a8af8eb44b422764ee2048b3d786a576c8bb56c4",
-          "lastSyncedAt": "2026-08-18T16:53:34.637Z"
+          "lastSyncedAt": "2026-08-18T17:04:48.192Z"
         }
       ]
     },
