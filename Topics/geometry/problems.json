@@ -4,7 +4,7 @@
     "slug": "geometry",
     "name": "Geometry"
   },
-  "updatedAt": "2026-08-18T16:46:28.141Z",
+  "updatedAt": "2026-08-18T16:52:16.194Z",
   "problems": [
     {
       "frontendId": "1266",
@@ -22,7 +22,7 @@
           "filename": "1266-minimum-time-visiting-all-points.cpp",
           "path": "1266-minimum-time-visiting-all-points/1266-minimum-time-visiting-all-points.cpp",
           "sha": "4008b39503563bfe3dbf94517a4f89f26a3b7b6f",
-          "lastSyncedAt": "2026-08-18T16:46:28.141Z"
+          "lastSyncedAt": "2026-08-18T16:52:16.194Z"
         }
       ]
     }
