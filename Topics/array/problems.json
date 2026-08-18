@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-18T16:45:54.933Z",
+  "updatedAt": "2026-08-18T16:46:28.141Z",
   "problems": [
     {
       "frontendId": "239",
@@ -63,6 +63,26 @@
           "path": "0518-coin-change-ii/0518-coin-change-ii.cpp",
           "sha": "c252cfe5e95f77e69dd06475ab8388fb03afd0ed",
           "lastSyncedAt": "2026-08-18T16:43:51.361Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1266",
+      "title": "Minimum Time Visiting All Points",
+      "slug": "minimum-time-visiting-all-points",
+      "problemName": "1266-minimum-time-visiting-all-points",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-visiting-all-points/",
+      "folderPath": "1266-minimum-time-visiting-all-points/",
+      "readmePath": "1266-minimum-time-visiting-all-points/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1266-minimum-time-visiting-all-points.cpp",
+          "path": "1266-minimum-time-visiting-all-points/1266-minimum-time-visiting-all-points.cpp",
+          "sha": "4008b39503563bfe3dbf94517a4f89f26a3b7b6f",
+          "lastSyncedAt": "2026-08-18T16:46:28.141Z"
         }
       ]
     },
