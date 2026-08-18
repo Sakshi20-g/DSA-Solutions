@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-18T17:04:00.320Z",
+  "updatedAt": "2026-08-18T17:04:08.549Z",
   "problems": [
     {
       "frontendId": "85",
@@ -82,7 +82,7 @@
           "filename": "0518-coin-change-ii.cpp",
           "path": "0518-coin-change-ii/0518-coin-change-ii.cpp",
           "sha": "c252cfe5e95f77e69dd06475ab8388fb03afd0ed",
-          "lastSyncedAt": "2026-08-18T16:52:59.949Z"
+          "lastSyncedAt": "2026-08-18T17:04:08.549Z"
         }
       ]
     },
