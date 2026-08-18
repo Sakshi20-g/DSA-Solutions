@@ -4,7 +4,7 @@
     "slug": "complete-knapsack",
     "name": "Complete Knapsack"
   },
-  "updatedAt": "2026-08-18T16:50:22.999Z",
+  "updatedAt": "2026-08-18T16:50:33.577Z",
   "problems": [
     {
       "frontendId": "322",
@@ -42,7 +42,7 @@
           "filename": "0518-coin-change-ii.cpp",
           "path": "0518-coin-change-ii/0518-coin-change-ii.cpp",
           "sha": "c252cfe5e95f77e69dd06475ab8388fb03afd0ed",
-          "lastSyncedAt": "2026-08-18T16:43:51.361Z"
+          "lastSyncedAt": "2026-08-18T16:50:33.577Z"
         }
       ]
     }
