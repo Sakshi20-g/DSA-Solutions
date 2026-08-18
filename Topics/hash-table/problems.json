@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-18T17:04:39.284Z",
+  "updatedAt": "2026-08-18T17:05:06.885Z",
   "problems": [
     {
       "frontendId": "3866",
@@ -22,7 +22,7 @@
           "filename": "3866-first-unique-even-element.cpp",
           "path": "3866-first-unique-even-element/3866-first-unique-even-element.cpp",
           "sha": "66bb2a35c66525e43503fe6e5a4fc48fce67539a",
-          "lastSyncedAt": "2026-08-18T16:51:43.396Z"
+          "lastSyncedAt": "2026-08-18T17:05:06.885Z"
         }
       ]
     },
