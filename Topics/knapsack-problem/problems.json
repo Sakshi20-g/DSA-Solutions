@@ -4,7 +4,7 @@
     "slug": "knapsack-problem",
     "name": "Knapsack Problem"
   },
-  "updatedAt": "2026-08-18T16:50:33.577Z",
+  "updatedAt": "2026-08-18T16:52:52.951Z",
   "problems": [
     {
       "frontendId": "322",
@@ -22,7 +22,7 @@
           "filename": "0322-coin-change.cpp",
           "path": "0322-coin-change/0322-coin-change.cpp",
           "sha": "e44465b16bf5f0d7c424f5af4b3fa577332a3007",
-          "lastSyncedAt": "2026-08-18T16:50:22.999Z"
+          "lastSyncedAt": "2026-08-18T16:52:52.951Z"
         }
       ]
     },
