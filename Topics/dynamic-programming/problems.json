@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-18T16:53:11.183Z",
+  "updatedAt": "2026-08-18T17:03:50.487Z",
   "problems": [
     {
       "frontendId": "70",
@@ -162,7 +162,7 @@
           "filename": "1312-minimum-insertion-steps-to-make-a-string-palindrome.cpp",
           "path": "1312-minimum-insertion-steps-to-make-a-string-palindrome/1312-minimum-insertion-steps-to-make-a-string-palindrome.cpp",
           "sha": "b7c213274f264013425bb6f246490e69e94a9924",
-          "lastSyncedAt": "2026-08-18T16:52:44.946Z"
+          "lastSyncedAt": "2026-08-18T17:03:50.487Z"
         }
       ]
     }
