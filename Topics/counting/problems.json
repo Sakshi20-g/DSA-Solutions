@@ -4,8 +4,28 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-08-18T16:44:30.297Z",
+  "updatedAt": "2026-08-18T16:45:29.575Z",
   "problems": [
+    {
+      "frontendId": "3866",
+      "title": "First Unique Even Element",
+      "slug": "first-unique-even-element",
+      "problemName": "3866-first-unique-even-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-unique-even-element/",
+      "folderPath": "3866-first-unique-even-element/",
+      "readmePath": "3866-first-unique-even-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3866-first-unique-even-element.cpp",
+          "path": "3866-first-unique-even-element/3866-first-unique-even-element.cpp",
+          "sha": "66bb2a35c66525e43503fe6e5a4fc48fce67539a",
+          "lastSyncedAt": "2026-08-18T16:45:29.575Z"
+        }
+      ]
+    },
     {
       "frontendId": "3889",
       "title": "Mirror Frequency Distance",
