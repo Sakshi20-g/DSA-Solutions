@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "longest-common-subsequence",
+    "name": "Longest Common Subsequence"
+  },
+  "updatedAt": "2026-08-18T16:43:24.629Z",
+  "problems": [
+    {
+      "frontendId": "583",
+      "title": "Delete Operation for Two Strings",
+      "slug": "delete-operation-for-two-strings",
+      "problemName": "0583-delete-operation-for-two-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+      "folderPath": "0583-delete-operation-for-two-strings/",
+      "readmePath": "0583-delete-operation-for-two-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0583-delete-operation-for-two-strings.cpp",
+          "path": "0583-delete-operation-for-two-strings/0583-delete-operation-for-two-strings.cpp",
+          "sha": "70149ceacbdac632ac6d3f2da09b87744d261395",
+          "lastSyncedAt": "2026-08-18T16:43:24.629Z"
+        }
+      ]
+    }
+  ]
+}
