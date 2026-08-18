@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers"
+  },
+  "updatedAt": "2026-08-18T16:44:52.517Z",
+  "problems": [
+    {
+      "frontendId": "3884",
+      "title": "First Matching Character From Both Ends",
+      "slug": "first-matching-character-from-both-ends",
+      "problemName": "3884-first-matching-character-from-both-ends",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-matching-character-from-both-ends/",
+      "folderPath": "3884-first-matching-character-from-both-ends/",
+      "readmePath": "3884-first-matching-character-from-both-ends/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3884-first-matching-character-from-both-ends.cpp",
+          "path": "3884-first-matching-character-from-both-ends/3884-first-matching-character-from-both-ends.cpp",
+          "sha": "a8af8eb44b422764ee2048b3d786a576c8bb56c4",
+          "lastSyncedAt": "2026-08-18T16:44:52.517Z"
+        }
+      ]
+    }
+  ]
+}
