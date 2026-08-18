@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "memoization",
+    "name": "Memoization"
+  },
+  "updatedAt": "2026-08-18T16:46:06.651Z",
+  "problems": [
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "0070-climbing-stairs/",
+      "readmePath": "0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0070-climbing-stairs.cpp",
+          "path": "0070-climbing-stairs/0070-climbing-stairs.cpp",
+          "sha": "877a297adc76c16b417edb097041e04d4007e095",
+          "lastSyncedAt": "2026-08-18T16:46:06.651Z"
+        }
+      ]
+    }
+  ]
+}
