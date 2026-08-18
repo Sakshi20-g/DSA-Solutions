@@ -4,7 +4,7 @@
     "slug": "longest-common-subsequence",
     "name": "Longest Common Subsequence"
   },
-  "updatedAt": "2026-08-18T16:50:14.761Z",
+  "updatedAt": "2026-08-18T16:50:47.280Z",
   "problems": [
     {
       "frontendId": "583",
@@ -42,7 +42,7 @@
           "filename": "1143-longest-common-subsequence.cpp",
           "path": "1143-longest-common-subsequence/1143-longest-common-subsequence.cpp",
           "sha": "5a88bde012d28a4264072c1a67816217f6f044c6",
-          "lastSyncedAt": "2026-08-18T16:44:06.853Z"
+          "lastSyncedAt": "2026-08-18T16:50:47.280Z"
         }
       ]
     }
