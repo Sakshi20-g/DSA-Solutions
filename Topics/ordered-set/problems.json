@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "ordered-set",
+    "name": "Ordered Set"
+  },
+  "updatedAt": "2026-08-18T16:44:37.824Z",
+  "problems": [
+    {
+      "frontendId": "3885",
+      "title": "Design Event Manager",
+      "slug": "design-event-manager",
+      "problemName": "3885-design-event-manager",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-event-manager/",
+      "folderPath": "3885-design-event-manager/",
+      "readmePath": "3885-design-event-manager/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3885-design-event-manager.cpp",
+          "path": "3885-design-event-manager/3885-design-event-manager.cpp",
+          "sha": "1ff37e469329b3d7f515c6b159544d9e32b35543",
+          "lastSyncedAt": "2026-08-18T16:44:37.824Z"
+        }
+      ]
+    }
+  ]
+}
