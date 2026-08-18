@@ -4,8 +4,28 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-08-18T16:44:14.331Z",
+  "updatedAt": "2026-08-18T16:44:30.297Z",
   "problems": [
+    {
+      "frontendId": "3889",
+      "title": "Mirror Frequency Distance",
+      "slug": "mirror-frequency-distance",
+      "problemName": "3889-mirror-frequency-distance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/mirror-frequency-distance/",
+      "folderPath": "3889-mirror-frequency-distance/",
+      "readmePath": "3889-mirror-frequency-distance/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3889-mirror-frequency-distance.cpp",
+          "path": "3889-mirror-frequency-distance/3889-mirror-frequency-distance.cpp",
+          "sha": "23122ed7ced6b8ffb6e9c08f03a5206c34535301",
+          "lastSyncedAt": "2026-08-18T16:44:30.297Z"
+        }
+      ]
+    },
     {
       "frontendId": "3890",
       "title": "Integers With Multiple Sum of Two Cubes",
