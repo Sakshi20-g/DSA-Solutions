@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-18T16:50:09.347Z",
+  "updatedAt": "2026-08-18T16:50:14.761Z",
   "problems": [
     {
       "frontendId": "67",
@@ -62,7 +62,7 @@
           "filename": "0583-delete-operation-for-two-strings.cpp",
           "path": "0583-delete-operation-for-two-strings/0583-delete-operation-for-two-strings.cpp",
           "sha": "70149ceacbdac632ac6d3f2da09b87744d261395",
-          "lastSyncedAt": "2026-08-18T16:43:24.629Z"
+          "lastSyncedAt": "2026-08-18T16:50:14.761Z"
         }
       ]
     },
