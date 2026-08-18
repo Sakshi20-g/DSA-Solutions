@@ -4,8 +4,28 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-08-18T16:44:37.824Z",
+  "updatedAt": "2026-08-18T16:45:36.551Z",
   "problems": [
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "0239-sliding-window-maximum/",
+      "readmePath": "0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0239-sliding-window-maximum.cpp",
+          "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.cpp",
+          "sha": "700a5a110766043e6da714cb8de7588eac584e40",
+          "lastSyncedAt": "2026-08-18T16:45:36.551Z"
+        }
+      ]
+    },
     {
       "frontendId": "3885",
       "title": "Design Event Manager",
