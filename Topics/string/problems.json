@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-18T16:43:24.629Z",
+  "updatedAt": "2026-08-18T16:44:00.594Z",
   "problems": [
+    {
+      "frontendId": "516",
+      "title": "Longest Palindromic Subsequence",
+      "slug": "longest-palindromic-subsequence",
+      "problemName": "0516-longest-palindromic-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+      "folderPath": "0516-longest-palindromic-subsequence/",
+      "readmePath": "0516-longest-palindromic-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0516-longest-palindromic-subsequence.cpp",
+          "path": "0516-longest-palindromic-subsequence/0516-longest-palindromic-subsequence.cpp",
+          "sha": "13622c815395322da540ccedab9d1df7f279a9c3",
+          "lastSyncedAt": "2026-08-18T16:44:00.594Z"
+        }
+      ]
+    },
     {
       "frontendId": "583",
       "title": "Delete Operation for Two Strings",
