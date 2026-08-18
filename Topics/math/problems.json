@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-18T17:05:36.270Z",
+  "updatedAt": "2026-08-18T17:05:42.904Z",
   "problems": [
     {
       "frontendId": "67",
@@ -62,7 +62,7 @@
           "filename": "1266-minimum-time-visiting-all-points.cpp",
           "path": "1266-minimum-time-visiting-all-points/1266-minimum-time-visiting-all-points.cpp",
           "sha": "4008b39503563bfe3dbf94517a4f89f26a3b7b6f",
-          "lastSyncedAt": "2026-08-18T16:52:16.194Z"
+          "lastSyncedAt": "2026-08-18T17:05:42.904Z"
         }
       ]
     },
