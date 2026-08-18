@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-18T17:04:34.324Z",
+  "updatedAt": "2026-08-18T17:04:39.284Z",
   "problems": [
     {
       "frontendId": "3866",
@@ -42,7 +42,7 @@
           "filename": "3885-design-event-manager.cpp",
           "path": "3885-design-event-manager/3885-design-event-manager.cpp",
           "sha": "1ff37e469329b3d7f515c6b159544d9e32b35543",
-          "lastSyncedAt": "2026-08-18T16:53:27.778Z"
+          "lastSyncedAt": "2026-08-18T17:04:39.284Z"
         }
       ]
     },
