@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-18T16:53:43.128Z",
+  "updatedAt": "2026-08-18T16:53:46.294Z",
   "problems": [
     {
       "frontendId": "67",
@@ -102,7 +102,7 @@
           "filename": "3870-count-commas-in-range.cpp",
           "path": "3870-count-commas-in-range/3870-count-commas-in-range.cpp",
           "sha": "f7ba955c1f708d37c1ed4bcb9827b29949812dce",
-          "lastSyncedAt": "2026-08-18T16:51:28.703Z"
+          "lastSyncedAt": "2026-08-18T16:53:46.294Z"
         }
       ]
     },
