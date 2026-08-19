@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-18T17:04:56.754Z",
+  "updatedAt": "2026-08-19T18:02:04.924Z",
   "problems": [
     {
       "frontendId": "3867",
@@ -42,7 +42,7 @@
           "filename": "3884-first-matching-character-from-both-ends.cpp",
           "path": "3884-first-matching-character-from-both-ends/3884-first-matching-character-from-both-ends.cpp",
           "sha": "a8af8eb44b422764ee2048b3d786a576c8bb56c4",
-          "lastSyncedAt": "2026-08-18T17:04:48.192Z"
+          "lastSyncedAt": "2026-08-19T18:02:04.924Z"
         }
       ]
     }
