@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-08-18T17:05:36.270Z",
+  "updatedAt": "2026-08-19T18:02:15.069Z",
   "problems": [
     {
       "frontendId": "67",
@@ -42,7 +42,7 @@
           "filename": "3867-sum-of-gcd-of-formed-pairs.cpp",
           "path": "3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.cpp",
           "sha": "038497c44659485e080fc16f0829de220a6403f0",
-          "lastSyncedAt": "2026-08-18T17:04:56.754Z"
+          "lastSyncedAt": "2026-08-19T18:02:15.069Z"
         }
       ]
     }
