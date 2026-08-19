@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-19T18:02:04.924Z",
+  "updatedAt": "2026-08-19T18:02:21.156Z",
   "problems": [
+    {
+      "frontendId": "65",
+      "title": "Valid Number",
+      "slug": "valid-number",
+      "problemName": "0065-valid-number",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-number/",
+      "folderPath": "0065-valid-number/",
+      "readmePath": "0065-valid-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0065-valid-number.cpp",
+          "path": "0065-valid-number/0065-valid-number.cpp",
+          "sha": "24a72aca0cfc1169639d723bed286c97c052ad0e",
+          "lastSyncedAt": "2026-08-19T18:02:21.156Z"
+        }
+      ]
+    },
     {
       "frontendId": "67",
       "title": "Add Binary",
