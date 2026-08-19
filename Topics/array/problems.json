@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-19T18:00:31.916Z",
+  "updatedAt": "2026-08-19T18:00:46.645Z",
   "problems": [
     {
       "frontendId": "85",
@@ -123,6 +123,26 @@
           "path": "1266-minimum-time-visiting-all-points/1266-minimum-time-visiting-all-points.cpp",
           "sha": "4008b39503563bfe3dbf94517a4f89f26a3b7b6f",
           "lastSyncedAt": "2026-08-18T17:05:42.904Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1834",
+      "title": "Single-Threaded CPU",
+      "slug": "single-threaded-cpu",
+      "problemName": "1834-single-threaded-cpu",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-threaded-cpu/",
+      "folderPath": "1834-single-threaded-cpu/",
+      "readmePath": "1834-single-threaded-cpu/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1834-single-threaded-cpu.cpp",
+          "path": "1834-single-threaded-cpu/1834-single-threaded-cpu.cpp",
+          "sha": "28084b9ff673df2a0fdcde2e15f884a267d373d7",
+          "lastSyncedAt": "2026-08-19T18:00:46.645Z"
         }
       ]
     },
