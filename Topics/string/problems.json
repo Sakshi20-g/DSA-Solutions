@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-19T18:01:29.986Z",
+  "updatedAt": "2026-08-19T18:01:33.380Z",
   "problems": [
     {
       "frontendId": "67",
@@ -82,7 +82,7 @@
           "filename": "1143-longest-common-subsequence.cpp",
           "path": "1143-longest-common-subsequence/1143-longest-common-subsequence.cpp",
           "sha": "5a88bde012d28a4264072c1a67816217f6f044c6",
-          "lastSyncedAt": "2026-08-18T17:04:18.591Z"
+          "lastSyncedAt": "2026-08-19T18:01:33.380Z"
         }
       ]
     },
