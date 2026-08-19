@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-18T17:05:36.270Z",
+  "updatedAt": "2026-08-19T18:00:53.659Z",
   "problems": [
     {
       "frontendId": "67",
@@ -102,7 +102,7 @@
           "filename": "1312-minimum-insertion-steps-to-make-a-string-palindrome.cpp",
           "path": "1312-minimum-insertion-steps-to-make-a-string-palindrome/1312-minimum-insertion-steps-to-make-a-string-palindrome.cpp",
           "sha": "b7c213274f264013425bb6f246490e69e94a9924",
-          "lastSyncedAt": "2026-08-18T17:03:50.487Z"
+          "lastSyncedAt": "2026-08-19T18:00:53.659Z"
         }
       ]
     },
