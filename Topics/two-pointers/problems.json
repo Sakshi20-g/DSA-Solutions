@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-20T18:05:55.233Z",
+  "updatedAt": "2026-08-20T18:05:56.457Z",
   "problems": [
     {
       "frontendId": "28",
@@ -22,7 +22,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "38edce7131f744a1976fb434c5d69c89728073af",
-          "lastSyncedAt": "2026-08-20T18:05:55.233Z"
+          "lastSyncedAt": "2026-08-20T18:05:56.457Z"
         }
       ]
     },
