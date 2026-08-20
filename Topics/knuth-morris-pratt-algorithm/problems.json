@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "knuth-morris-pratt-algorithm",
+    "name": "Knuth–Morris–Pratt Algorithm"
+  },
+  "updatedAt": "2026-08-20T18:05:55.989Z",
+  "problems": [
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
+          "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
+          "sha": "38edce7131f744a1976fb434c5d69c89728073af",
+          "lastSyncedAt": "2026-08-20T18:05:55.989Z"
+        }
+      ]
+    }
+  ]
+}
