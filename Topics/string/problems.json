@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-20T18:05:56.527Z",
+  "updatedAt": "2026-08-21T18:19:26.484Z",
   "problems": [
     {
       "frontendId": "28",
@@ -23,6 +23,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "38edce7131f744a1976fb434c5d69c89728073af",
           "lastSyncedAt": "2026-08-20T18:05:56.527Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "38",
+      "title": "Count and Say",
+      "slug": "count-and-say",
+      "problemName": "0038-count-and-say",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-and-say/",
+      "folderPath": "0038-count-and-say/",
+      "readmePath": "0038-count-and-say/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0038-count-and-say.cpp",
+          "path": "0038-count-and-say/0038-count-and-say.cpp",
+          "sha": "5573b833b87704f02d74f360457990c4f4ee0198",
+          "lastSyncedAt": "2026-08-21T18:19:26.484Z"
         }
       ]
     },
