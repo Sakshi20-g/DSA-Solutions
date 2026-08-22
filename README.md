@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 8 | 12 | 6 |
+| 27 | 9 | 12 | 6 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-08-19 | 2 |
 | 2026-08-20 | 1 |
 | 2026-08-21 | 1 |
-| 2026-08-22 | 1 |
+| 2026-08-22 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 11 | 42% |
-| Array | 10 | 38% |
-| Dynamic Programming | 9 | 35% |
-| Math | 7 | 27% |
-| Hash Table | 4 | 15% |
-| Counting | 3 | 12% |
-| Heap (Priority Queue) | 3 | 12% |
-| Sorting | 3 | 12% |
-| Two Pointers | 3 | 12% |
-| Complete Knapsack | 2 | 8% |
+| String | 12 | 44% |
+| Array | 10 | 37% |
+| Dynamic Programming | 9 | 33% |
+| Math | 7 | 26% |
+| Hash Table | 5 | 19% |
+| Counting | 3 | 11% |
+| Heap (Priority Queue) | 3 | 11% |
+| Sorting | 3 | 11% |
+| Two Pointers | 3 | 11% |
+| Complete Knapsack | 2 | 7% |
 
 ## Topics
 
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 4 |
+| [Hash Table](Topics/hash-table/) | 5 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -78,10 +78,10 @@ Contains topicwise list of solved problems.
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
-| [Sliding Window](Topics/sliding-window/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 11 |
+| [String](Topics/string/) | 12 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
