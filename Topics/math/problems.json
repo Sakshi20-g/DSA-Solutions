@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-19T18:02:15.069Z",
+  "updatedAt": "2026-08-22T17:34:54.953Z",
   "problems": [
     {
       "frontendId": "67",
@@ -63,6 +63,26 @@
           "path": "1266-minimum-time-visiting-all-points/1266-minimum-time-visiting-all-points.cpp",
           "sha": "4008b39503563bfe3dbf94517a4f89f26a3b7b6f",
           "lastSyncedAt": "2026-08-18T17:05:42.904Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3622",
+      "title": "Check Divisibility by Digit Sum and Product",
+      "slug": "check-divisibility-by-digit-sum-and-product",
+      "problemName": "3622-check-divisibility-by-digit-sum-and-product",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/",
+      "folderPath": "3622-check-divisibility-by-digit-sum-and-product/",
+      "readmePath": "3622-check-divisibility-by-digit-sum-and-product/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3622-check-divisibility-by-digit-sum-and-product.cpp",
+          "path": "3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.cpp",
+          "sha": "46fd590157681a7bbd075d852983fa7d8c84decf",
+          "lastSyncedAt": "2026-08-22T17:34:54.953Z"
         }
       ]
     },
