@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 10 | 12 | 6 |
+| 29 | 11 | 12 | 6 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-08-19 | 2 |
 | 2026-08-20 | 1 |
 | 2026-08-21 | 1 |
-| 2026-08-22 | 3 |
+| 2026-08-22 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 12 | 43% |
-| Array | 11 | 39% |
-| Dynamic Programming | 9 | 32% |
-| Math | 7 | 25% |
-| Hash Table | 6 | 21% |
+| Array | 12 | 41% |
+| String | 12 | 41% |
+| Dynamic Programming | 9 | 31% |
+| Hash Table | 7 | 24% |
+| Math | 7 | 24% |
 | Sorting | 4 | 14% |
-| Counting | 3 | 11% |
-| Heap (Priority Queue) | 3 | 11% |
-| Two Pointers | 3 | 11% |
+| Counting | 3 | 10% |
+| Heap (Priority Queue) | 3 | 10% |
+| Two Pointers | 3 | 10% |
 | Complete Knapsack | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 13 |
+| [Array](Topics/array/) | 14 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
