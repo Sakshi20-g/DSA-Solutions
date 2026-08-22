@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 9 | 12 | 6 |
+| 28 | 10 | 12 | 6 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-08-19 | 2 |
 | 2026-08-20 | 1 |
 | 2026-08-21 | 1 |
-| 2026-08-22 | 2 |
+| 2026-08-22 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 12 | 44% |
-| Array | 10 | 37% |
-| Dynamic Programming | 9 | 33% |
-| Math | 7 | 26% |
-| Hash Table | 5 | 19% |
+| String | 12 | 43% |
+| Array | 11 | 39% |
+| Dynamic Programming | 9 | 32% |
+| Math | 7 | 25% |
+| Hash Table | 6 | 21% |
+| Sorting | 4 | 14% |
 | Counting | 3 | 11% |
 | Heap (Priority Queue) | 3 | 11% |
-| Sorting | 3 | 11% |
 | Two Pointers | 3 | 11% |
 | Complete Knapsack | 2 | 7% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 12 |
+| [Array](Topics/array/) | 13 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 5 |
+| [Hash Table](Topics/hash-table/) | 6 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 12 |
 | [String Matching](Topics/string-matching/) | 1 |
