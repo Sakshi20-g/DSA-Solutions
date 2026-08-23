@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-22T17:34:54.953Z",
+  "updatedAt": "2026-08-23T17:36:15.353Z",
   "problems": [
     {
       "frontendId": "67",
@@ -63,6 +63,26 @@
           "path": "1266-minimum-time-visiting-all-points/1266-minimum-time-visiting-all-points.cpp",
           "sha": "4008b39503563bfe3dbf94517a4f89f26a3b7b6f",
           "lastSyncedAt": "2026-08-18T17:05:42.904Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1927",
+      "title": "Sum Game",
+      "slug": "sum-game",
+      "problemName": "1927-sum-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-game/",
+      "folderPath": "1927-sum-game/",
+      "readmePath": "1927-sum-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1927-sum-game.cpp",
+          "path": "1927-sum-game/1927-sum-game.cpp",
+          "sha": "ebba4894accfc531f08cb6a35c7c699c988f49f0",
+          "lastSyncedAt": "2026-08-23T17:36:15.353Z"
         }
       ]
     },
