@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-22T17:37:48.764Z",
+  "updatedAt": "2026-08-25T14:43:17.162Z",
   "problems": [
+    {
+      "frontendId": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "problemName": "0016-3sum-closest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+      "folderPath": "0016-3sum-closest/",
+      "readmePath": "0016-3sum-closest/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0016-3sum-closest.cpp",
+          "path": "0016-3sum-closest/0016-3sum-closest.cpp",
+          "sha": "a52c2dca14374d3559b533c0428ac2b89fcef9c5",
+          "lastSyncedAt": "2026-08-25T14:43:17.162Z"
+        }
+      ]
+    },
     {
       "frontendId": "85",
       "title": "Maximal Rectangle",
