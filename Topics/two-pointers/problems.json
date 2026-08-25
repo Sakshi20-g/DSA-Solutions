@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-25T14:43:24.758Z",
+  "updatedAt": "2026-08-25T14:43:30.332Z",
   "problems": [
     {
       "frontendId": "16",
@@ -22,7 +22,7 @@
           "filename": "0016-3sum-closest.cpp",
           "path": "0016-3sum-closest/0016-3sum-closest.cpp",
           "sha": "a52c2dca14374d3559b533c0428ac2b89fcef9c5",
-          "lastSyncedAt": "2026-08-25T14:43:24.758Z"
+          "lastSyncedAt": "2026-08-25T14:43:30.332Z"
         }
       ]
     },
