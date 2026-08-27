@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "interactive",
+    "name": "Interactive"
+  },
+  "updatedAt": "2026-08-27T12:34:58.682Z",
+  "problems": [
+    {
+      "frontendId": "278",
+      "title": "First Bad Version",
+      "slug": "first-bad-version",
+      "problemName": "0278-first-bad-version",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
+      "folderPath": "0278-first-bad-version/",
+      "readmePath": "0278-first-bad-version/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0278-first-bad-version.cpp",
+          "path": "0278-first-bad-version/0278-first-bad-version.cpp",
+          "sha": "02c904c88ac4ff0f763ef3270a53dbfc5ef02d74",
+          "lastSyncedAt": "2026-08-27T12:34:58.682Z"
+        }
+      ]
+    }
+  ]
+}
