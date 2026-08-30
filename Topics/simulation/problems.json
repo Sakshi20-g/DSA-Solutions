@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-08-20T18:02:05.643Z",
+  "updatedAt": "2026-08-30T03:58:30.187Z",
   "problems": [
     {
       "frontendId": "67",
@@ -23,6 +23,26 @@
           "path": "0067-add-binary/0067-add-binary.cpp",
           "sha": "fd93ad2c548d7ad04fcb211f7b0ffc3a9b3c3e49",
           "lastSyncedAt": "2026-08-18T17:05:36.270Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "0258-add-digits/",
+      "readmePath": "0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0258-add-digits.cpp",
+          "path": "0258-add-digits/0258-add-digits.cpp",
+          "sha": "1f4fcdadebf48e99da7ec22877cef25e06a139c6",
+          "lastSyncedAt": "2026-08-30T03:58:30.187Z"
         }
       ]
     },
