@@ -4,7 +4,7 @@
     "slug": "interactive",
     "name": "Interactive"
   },
-  "updatedAt": "2026-08-27T12:34:58.682Z",
+  "updatedAt": "2026-08-30T03:58:22.393Z",
   "problems": [
     {
       "frontendId": "278",
@@ -22,7 +22,7 @@
           "filename": "0278-first-bad-version.cpp",
           "path": "0278-first-bad-version/0278-first-bad-version.cpp",
           "sha": "02c904c88ac4ff0f763ef3270a53dbfc5ef02d74",
-          "lastSyncedAt": "2026-08-27T12:34:58.682Z"
+          "lastSyncedAt": "2026-08-30T03:58:22.393Z"
         }
       ]
     }
