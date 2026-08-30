@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-30T03:58:39.367Z",
+  "updatedAt": "2026-08-30T03:58:45.469Z",
   "problems": [
     {
       "frontendId": "28",
@@ -243,6 +243,26 @@
           "path": "1312-minimum-insertion-steps-to-make-a-string-palindrome/1312-minimum-insertion-steps-to-make-a-string-palindrome.cpp",
           "sha": "b7c213274f264013425bb6f246490e69e94a9924",
           "lastSyncedAt": "2026-08-19T18:00:53.659Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2904",
+      "title": "Shortest and Lexicographically Smallest Beautiful String",
+      "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+      "problemName": "2904-shortest-and-lexicographically-smallest-beautiful-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/",
+      "folderPath": "2904-shortest-and-lexicographically-smallest-beautiful-string/",
+      "readmePath": "2904-shortest-and-lexicographically-smallest-beautiful-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2904-shortest-and-lexicographically-smallest-beautiful-string.cpp",
+          "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.cpp",
+          "sha": "bbe9ed117d69e63057279cfb54e85c9e447ac054",
+          "lastSyncedAt": "2026-08-30T03:58:45.469Z"
         }
       ]
     },
