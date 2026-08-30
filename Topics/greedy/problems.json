@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-19T18:05:12.994Z",
+  "updatedAt": "2026-08-30T03:59:12.604Z",
   "problems": [
     {
       "frontendId": "44",
@@ -23,6 +23,26 @@
           "path": "0044-wildcard-matching/0044-wildcard-matching.cpp",
           "sha": "400e6ba92ac17e61347bc8fd500bc502b129275e",
           "lastSyncedAt": "2026-08-19T18:05:12.994Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1927",
+      "title": "Sum Game",
+      "slug": "sum-game",
+      "problemName": "1927-sum-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-game/",
+      "folderPath": "1927-sum-game/",
+      "readmePath": "1927-sum-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1927-sum-game.cpp",
+          "path": "1927-sum-game/1927-sum-game.cpp",
+          "sha": "ebba4894accfc531f08cb6a35c7c699c988f49f0",
+          "lastSyncedAt": "2026-08-30T03:59:12.604Z"
         }
       ]
     }
