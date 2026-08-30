@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-30T03:58:17.025Z",
+  "updatedAt": "2026-08-30T03:58:39.367Z",
   "problems": [
     {
       "frontendId": "28",
@@ -123,6 +123,26 @@
           "path": "0097-interleaving-string/0097-interleaving-string.cpp",
           "sha": "5265c6b4d01e3fa03aaf46794ea235b8132fabc8",
           "lastSyncedAt": "2026-08-23T17:40:39.176Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "0125-valid-palindrome/",
+      "readmePath": "0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0125-valid-palindrome.cpp",
+          "path": "0125-valid-palindrome/0125-valid-palindrome.cpp",
+          "sha": "30c76ed679e95a8a9dc279cf5fc51c74d5dba2d5",
+          "lastSyncedAt": "2026-08-30T03:58:39.367Z"
         }
       ]
     },
