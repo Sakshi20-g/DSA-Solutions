@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-18T17:05:52.296Z",
+  "updatedAt": "2026-08-30T03:58:17.025Z",
   "problems": [
     {
       "frontendId": "85",
@@ -23,6 +23,26 @@
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.cpp",
           "sha": "f4fb4717c7b2a73224372650d2814cfe1aaf2bcd",
           "lastSyncedAt": "2026-08-18T17:05:52.296Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1047",
+      "title": "Remove All Adjacent Duplicates In String",
+      "slug": "remove-all-adjacent-duplicates-in-string",
+      "problemName": "1047-remove-all-adjacent-duplicates-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+      "folderPath": "1047-remove-all-adjacent-duplicates-in-string/",
+      "readmePath": "1047-remove-all-adjacent-duplicates-in-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1047-remove-all-adjacent-duplicates-in-string.cpp",
+          "path": "1047-remove-all-adjacent-duplicates-in-string/1047-remove-all-adjacent-duplicates-in-string.cpp",
+          "sha": "c298e2f7ef39a36b228c618a6a978fb7b95ae445",
+          "lastSyncedAt": "2026-08-30T03:58:17.025Z"
         }
       ]
     },
