@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-25T14:43:33.281Z",
+  "updatedAt": "2026-08-30T03:58:51.632Z",
   "problems": [
     {
       "frontendId": "16",
@@ -22,7 +22,7 @@
           "filename": "0016-3sum-closest.cpp",
           "path": "0016-3sum-closest/0016-3sum-closest.cpp",
           "sha": "a52c2dca14374d3559b533c0428ac2b89fcef9c5",
-          "lastSyncedAt": "2026-08-25T14:43:33.281Z"
+          "lastSyncedAt": "2026-08-30T03:58:51.632Z"
         }
       ]
     },
