@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-23T17:40:39.176Z",
+  "updatedAt": "2026-08-30T03:58:17.025Z",
   "problems": [
     {
       "frontendId": "28",
@@ -163,6 +163,26 @@
           "path": "0583-delete-operation-for-two-strings/0583-delete-operation-for-two-strings.cpp",
           "sha": "70149ceacbdac632ac6d3f2da09b87744d261395",
           "lastSyncedAt": "2026-08-19T18:00:58.782Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1047",
+      "title": "Remove All Adjacent Duplicates In String",
+      "slug": "remove-all-adjacent-duplicates-in-string",
+      "problemName": "1047-remove-all-adjacent-duplicates-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+      "folderPath": "1047-remove-all-adjacent-duplicates-in-string/",
+      "readmePath": "1047-remove-all-adjacent-duplicates-in-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1047-remove-all-adjacent-duplicates-in-string.cpp",
+          "path": "1047-remove-all-adjacent-duplicates-in-string/1047-remove-all-adjacent-duplicates-in-string.cpp",
+          "sha": "c298e2f7ef39a36b228c618a6a978fb7b95ae445",
+          "lastSyncedAt": "2026-08-30T03:58:17.025Z"
         }
       ]
     },
