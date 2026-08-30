@@ -4,7 +4,7 @@
     "slug": "queue",
     "name": "Queue"
   },
-  "updatedAt": "2026-08-19T18:02:32.474Z",
+  "updatedAt": "2026-08-30T16:22:38.474Z",
   "problems": [
     {
       "frontendId": "239",
@@ -23,6 +23,26 @@
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.cpp",
           "sha": "700a5a110766043e6da714cb8de7588eac584e40",
           "lastSyncedAt": "2026-08-19T18:02:32.474Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "622",
+      "title": "Design Circular Queue",
+      "slug": "design-circular-queue",
+      "problemName": "0622-design-circular-queue",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-circular-queue/",
+      "folderPath": "0622-design-circular-queue/",
+      "readmePath": "0622-design-circular-queue/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0622-design-circular-queue.cpp",
+          "path": "0622-design-circular-queue/0622-design-circular-queue.cpp",
+          "sha": "9bb1489fe214e6ab91845c24a974c28c0d5307b2",
+          "lastSyncedAt": "2026-08-30T16:22:38.474Z"
         }
       ]
     }
