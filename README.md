@@ -5,84 +5,81 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 11 | 12 | 6 |
+| 7 | 5 | 2 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 8 days | 16 |
+| 2 days | 2 days | 5 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-01-13 | 1 |
-| 2026-01-14 | 1 |
-| 2026-03-14 | 4 |
-| 2026-03-15 | 2 |
-| 2026-03-29 | 2 |
-| 2026-04-05 | 2 |
-| 2026-08-15 | 2 |
-| 2026-08-16 | 2 |
-| 2026-08-17 | 1 |
-| 2026-08-18 | 2 |
-| 2026-08-19 | 2 |
-| 2026-08-20 | 1 |
-| 2026-08-21 | 1 |
-| 2026-08-22 | 4 |
+| 2026-08-24 | 1 |
+| 2026-08-26 | 1 |
+| 2026-08-27 | 2 |
+| 2026-08-29 | 1 |
+| 2026-08-30 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 41% |
-| String | 12 | 41% |
-| Dynamic Programming | 9 | 31% |
-| Hash Table | 7 | 24% |
-| Math | 7 | 24% |
-| Sorting | 4 | 14% |
-| Counting | 3 | 10% |
-| Heap (Priority Queue) | 3 | 10% |
-| Two Pointers | 3 | 10% |
-| Complete Knapsack | 2 | 7% |
+| Array | 2 | 29% |
+| Design | 2 | 29% |
+| Stack | 2 | 29% |
+| String | 2 | 29% |
+| Two Pointers | 2 | 29% |
+| Binary Search | 1 | 14% |
+| Interactive | 1 | 14% |
+| Linked List | 1 | 14% |
+| Math | 1 | 14% |
+| Number Theory | 1 | 14% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 14 |
-| [Binary Search](Topics/binary-search/) | 1 |
+| [Array](Topics/array/) | 17 |
+| [Binary Search](Topics/binary-search/) | 2 |
+| [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Complete Knapsack](Topics/complete-knapsack/) | 2 |
 | [Counting](Topics/counting/) | 3 |
 | [Database](Topics/database/) | 0 |
-| [Design](Topics/design/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
+| [Depth-First Search](Topics/depth-first-search/) | 1 |
+| [Design](Topics/design/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
 | [Enumeration](Topics/enumeration/) | 1 |
+| [Game Theory](Topics/game-theory/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
-| [Greedy](Topics/greedy/) | 1 |
+| [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
+| [Interactive](Topics/interactive/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
+| [Linked List](Topics/linked-list/) | 1 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 2 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
-| [Number Theory](Topics/number-theory/) | 1 |
+| [Number Theory](Topics/number-theory/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Queue](Topics/queue/) | 1 |
+| [Queue](Topics/queue/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
-| [Simulation](Topics/simulation/) | 3 |
-| [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 5 |
-| [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 12 |
+| [Simulation](Topics/simulation/) | 4 |
+| [Sliding Window](Topics/sliding-window/) | 3 |
+| [Sorting](Topics/sorting/) | 6 |
+| [Stack](Topics/stack/) | 4 |
+| [String](Topics/string/) | 17 |
 | [String Matching](Topics/string-matching/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Tree](Topics/tree/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
