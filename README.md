@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 7 | 5 | 2 | 0 |
+| 8 | 5 | 3 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 5 |
+| 3 days | 3 days | 6 |
 
 | Date | Problems |
 | --- | ---: |
@@ -20,21 +20,22 @@ Contains topicwise list of solved problems.
 | 2026-08-27 | 2 |
 | 2026-08-29 | 1 |
 | 2026-08-30 | 2 |
+| 2026-08-31 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 2 | 29% |
-| Design | 2 | 29% |
-| Stack | 2 | 29% |
-| String | 2 | 29% |
-| Two Pointers | 2 | 29% |
-| Binary Search | 1 | 14% |
-| Interactive | 1 | 14% |
-| Linked List | 1 | 14% |
-| Math | 1 | 14% |
-| Number Theory | 1 | 14% |
+| Array | 2 | 25% |
+| Design | 2 | 25% |
+| Linked List | 2 | 25% |
+| Stack | 2 | 25% |
+| String | 2 | 25% |
+| Two Pointers | 2 | 25% |
+| Binary Search | 1 | 13% |
+| Interactive | 1 | 13% |
+| Math | 1 | 13% |
+| Number Theory | 1 | 13% |
 
 ## Topics
 
@@ -61,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Interactive](Topics/interactive/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 1 |
+| [Linked List](Topics/linked-list/) | 2 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 2 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 1 |
