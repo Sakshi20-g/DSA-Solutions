@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-30T03:58:22.393Z",
+  "updatedAt": "2026-09-01T17:58:04.786Z",
   "problems": [
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "0035-search-insert-position/",
+      "readmePath": "0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0035-search-insert-position.cpp",
+          "path": "0035-search-insert-position/0035-search-insert-position.cpp",
+          "sha": "6aced0cadb0aa17d9ac2832463412391833ff27c",
+          "lastSyncedAt": "2026-09-01T17:58:04.786Z"
+        }
+      ]
+    },
     {
       "frontendId": "278",
       "title": "First Bad Version",
