@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 8 | 5 | 3 | 0 |
+| 9 | 6 | 3 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 3 days | 6 |
+| 4 days | 4 days | 7 |
 
 | Date | Problems |
 | --- | ---: |
@@ -21,28 +21,29 @@ Contains topicwise list of solved problems.
 | 2026-08-29 | 1 |
 | 2026-08-30 | 2 |
 | 2026-08-31 | 1 |
+| 2026-09-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 2 | 25% |
-| Design | 2 | 25% |
-| Linked List | 2 | 25% |
-| Stack | 2 | 25% |
-| String | 2 | 25% |
-| Two Pointers | 2 | 25% |
-| Binary Search | 1 | 13% |
-| Interactive | 1 | 13% |
-| Math | 1 | 13% |
-| Number Theory | 1 | 13% |
+| Array | 3 | 33% |
+| Binary Search | 2 | 22% |
+| Design | 2 | 22% |
+| Linked List | 2 | 22% |
+| Stack | 2 | 22% |
+| String | 2 | 22% |
+| Two Pointers | 2 | 22% |
+| Interactive | 1 | 11% |
+| Math | 1 | 11% |
+| Number Theory | 1 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 17 |
-| [Binary Search](Topics/binary-search/) | 2 |
+| [Array](Topics/array/) | 18 |
+| [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
