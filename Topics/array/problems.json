@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-01T17:59:34.185Z",
+  "updatedAt": "2026-09-02T15:59:09.882Z",
   "problems": [
     {
       "frontendId": "16",
@@ -363,6 +363,26 @@
           "path": "3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.cpp",
           "sha": "038497c44659485e080fc16f0829de220a6403f0",
           "lastSyncedAt": "2026-08-19T18:02:15.069Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "3875-construct-uniform-parity-array-i/",
+      "readmePath": "3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3875-construct-uniform-parity-array-i.cpp",
+          "path": "3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.cpp",
+          "sha": "ff51453a170391b0977b534e5d21a1072037f902",
+          "lastSyncedAt": "2026-09-02T15:59:09.882Z"
         }
       ]
     },
