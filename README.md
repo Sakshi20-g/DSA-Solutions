@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 11 | 7 | 4 | 0 |
+| 12 | 7 | 5 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 6 days | 9 |
+| 1 days | 6 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -24,27 +24,28 @@ Contains topicwise list of solved problems.
 | 2026-09-01 | 1 |
 | 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
+| 2026-09-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 5 | 45% |
-| Math | 3 | 27% |
-| Binary Search | 2 | 18% |
-| Design | 2 | 18% |
-| Linked List | 2 | 18% |
-| Stack | 2 | 18% |
-| String | 2 | 18% |
-| Two Pointers | 2 | 18% |
-| Interactive | 1 | 9% |
-| Number Theory | 1 | 9% |
+| Array | 6 | 50% |
+| Math | 3 | 25% |
+| Binary Search | 2 | 17% |
+| Design | 2 | 17% |
+| Linked List | 2 | 17% |
+| Stack | 2 | 17% |
+| String | 2 | 17% |
+| Two Pointers | 2 | 17% |
+| Interactive | 1 | 8% |
+| Number Theory | 1 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 21 |
+| [Array](Topics/array/) | 22 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
@@ -74,6 +75,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Number Theory](Topics/number-theory/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
