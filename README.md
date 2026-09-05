@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 12 | 7 | 5 | 0 |
+| 13 | 8 | 5 | 0 |
 
 ## Activity
 
@@ -24,28 +24,28 @@ Contains topicwise list of solved problems.
 | 2026-09-01 | 1 |
 | 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
-| 2026-09-05 | 1 |
+| 2026-09-05 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 6 | 50% |
-| Math | 3 | 25% |
-| Binary Search | 2 | 17% |
-| Design | 2 | 17% |
-| Linked List | 2 | 17% |
-| Stack | 2 | 17% |
-| String | 2 | 17% |
-| Two Pointers | 2 | 17% |
+| Array | 7 | 54% |
+| Math | 3 | 23% |
+| Binary Search | 2 | 15% |
+| Design | 2 | 15% |
+| Linked List | 2 | 15% |
+| Stack | 2 | 15% |
+| String | 2 | 15% |
+| Two Pointers | 2 | 15% |
+| Hash Table | 1 | 8% |
 | Interactive | 1 | 8% |
-| Number Theory | 1 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 22 |
+| [Array](Topics/array/) | 23 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
@@ -61,7 +61,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 8 |
+| [Hash Table](Topics/hash-table/) | 9 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
