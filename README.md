@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 13 | 8 | 5 | 0 |
+| 14 | 8 | 5 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 6 days | 10 |
+| 2 days | 6 days | 11 |
 
 | Date | Problems |
 | --- | ---: |
@@ -25,21 +25,22 @@ Contains topicwise list of solved problems.
 | 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
 | 2026-09-05 | 2 |
+| 2026-09-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 7 | 54% |
-| Math | 3 | 23% |
-| Binary Search | 2 | 15% |
-| Design | 2 | 15% |
-| Linked List | 2 | 15% |
-| Stack | 2 | 15% |
-| String | 2 | 15% |
-| Two Pointers | 2 | 15% |
-| Hash Table | 1 | 8% |
-| Interactive | 1 | 8% |
+| Array | 7 | 50% |
+| Math | 3 | 21% |
+| String | 3 | 21% |
+| Binary Search | 2 | 14% |
+| Design | 2 | 14% |
+| Linked List | 2 | 14% |
+| Stack | 2 | 14% |
+| Two Pointers | 2 | 14% |
+| Dynamic Programming | 1 | 7% |
+| Hash Table | 1 | 7% |
 
 ## Topics
 
@@ -56,7 +57,7 @@ Contains topicwise list of solved problems.
 | [Database](Topics/database/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Design](Topics/design/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
@@ -83,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 17 |
+| [String](Topics/string/) | 18 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
