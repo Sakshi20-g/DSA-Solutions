@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-30T03:59:12.604Z",
+  "updatedAt": "2026-09-06T17:51:20.384Z",
   "problems": [
     {
       "frontendId": "28",
@@ -123,6 +123,26 @@
           "path": "0097-interleaving-string/0097-interleaving-string.cpp",
           "sha": "5265c6b4d01e3fa03aaf46794ea235b8132fabc8",
           "lastSyncedAt": "2026-08-30T03:59:06.061Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "115",
+      "title": "Distinct Subsequences",
+      "slug": "distinct-subsequences",
+      "problemName": "0115-distinct-subsequences",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences/",
+      "folderPath": "0115-distinct-subsequences/",
+      "readmePath": "0115-distinct-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0115-distinct-subsequences.cpp",
+          "path": "0115-distinct-subsequences/0115-distinct-subsequences.cpp",
+          "sha": "0b373ccacc3314eb2718e2f509926feb806f02ef",
+          "lastSyncedAt": "2026-09-06T17:51:20.384Z"
         }
       ]
     },
