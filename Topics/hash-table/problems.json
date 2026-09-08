@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-05T14:49:16.859Z",
+  "updatedAt": "2026-09-08T17:53:56.300Z",
   "problems": [
+    {
+      "frontendId": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "problemName": "0290-word-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+      "folderPath": "0290-word-pattern/",
+      "readmePath": "0290-word-pattern/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0290-word-pattern.cpp",
+          "path": "0290-word-pattern/0290-word-pattern.cpp",
+          "sha": "98518d7355f4f9c84cd0e6334b3f16a1a6fa6248",
+          "lastSyncedAt": "2026-09-08T17:53:56.300Z"
+        }
+      ]
+    },
     {
       "frontendId": "2996",
       "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
