@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 14 | 8 | 5 | 1 |
+| 15 | 9 | 5 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 6 days | 11 |
+| 1 days | 6 days | 12 |
 
 | Date | Problems |
 | --- | ---: |
@@ -26,21 +26,22 @@ Contains topicwise list of solved problems.
 | 2026-09-03 | 1 |
 | 2026-09-05 | 2 |
 | 2026-09-06 | 1 |
+| 2026-09-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 7 | 50% |
-| Math | 3 | 21% |
-| String | 3 | 21% |
-| Binary Search | 2 | 14% |
-| Design | 2 | 14% |
-| Linked List | 2 | 14% |
-| Stack | 2 | 14% |
-| Two Pointers | 2 | 14% |
+| Array | 7 | 47% |
+| String | 4 | 27% |
+| Math | 3 | 20% |
+| Binary Search | 2 | 13% |
+| Design | 2 | 13% |
+| Hash Table | 2 | 13% |
+| Linked List | 2 | 13% |
+| Stack | 2 | 13% |
+| Two Pointers | 2 | 13% |
 | Dynamic Programming | 1 | 7% |
-| Hash Table | 1 | 7% |
 
 ## Topics
 
@@ -62,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 9 |
+| [Hash Table](Topics/hash-table/) | 10 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
@@ -84,7 +85,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 18 |
+| [String](Topics/string/) | 19 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
