@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-06T17:51:20.384Z",
+  "updatedAt": "2026-09-09T18:27:49.416Z",
   "problems": [
     {
       "frontendId": "44",
@@ -183,6 +183,26 @@
           "path": "0583-delete-operation-for-two-strings/0583-delete-operation-for-two-strings.cpp",
           "sha": "70149ceacbdac632ac6d3f2da09b87744d261395",
           "lastSyncedAt": "2026-08-19T18:00:58.782Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "940",
+      "title": "Distinct Subsequences II",
+      "slug": "distinct-subsequences-ii",
+      "problemName": "0940-distinct-subsequences-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences-ii/",
+      "folderPath": "0940-distinct-subsequences-ii/",
+      "readmePath": "0940-distinct-subsequences-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0940-distinct-subsequences-ii.cpp",
+          "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.cpp",
+          "sha": "0f6725bec30c9287abb4cd9a9057410ce2909871",
+          "lastSyncedAt": "2026-09-09T18:27:49.416Z"
         }
       ]
     },
