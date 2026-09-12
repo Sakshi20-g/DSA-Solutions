@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-01T17:58:04.786Z",
+  "updatedAt": "2026-09-12T06:51:14.700Z",
   "problems": [
     {
       "frontendId": "35",
@@ -63,6 +63,26 @@
           "path": "1235-maximum-profit-in-job-scheduling/1235-maximum-profit-in-job-scheduling.cpp",
           "sha": "3dac345141b0793ff0a6d75351cabfcb2a8745f4",
           "lastSyncedAt": "2026-08-19T18:00:31.916Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3414",
+      "title": "Maximum Score of Non-overlapping Intervals",
+      "slug": "maximum-score-of-non-overlapping-intervals",
+      "problemName": "3414-maximum-score-of-non-overlapping-intervals",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/",
+      "folderPath": "3414-maximum-score-of-non-overlapping-intervals/",
+      "readmePath": "3414-maximum-score-of-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3414-maximum-score-of-non-overlapping-intervals.cpp",
+          "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.cpp",
+          "sha": "eb941115efab110fda7b5d747fa626cb555b9213",
+          "lastSyncedAt": "2026-09-12T06:51:14.700Z"
         }
       ]
     }
