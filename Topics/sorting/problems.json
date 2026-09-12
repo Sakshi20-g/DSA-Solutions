@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-30T03:59:39.798Z",
+  "updatedAt": "2026-09-12T06:51:14.700Z",
   "problems": [
     {
       "frontendId": "16",
@@ -83,6 +83,26 @@
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
           "sha": "cd34a2266d877e74e7b291e8e5574bef02bcd4e7",
           "lastSyncedAt": "2026-08-30T03:59:39.798Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3414",
+      "title": "Maximum Score of Non-overlapping Intervals",
+      "slug": "maximum-score-of-non-overlapping-intervals",
+      "problemName": "3414-maximum-score-of-non-overlapping-intervals",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/",
+      "folderPath": "3414-maximum-score-of-non-overlapping-intervals/",
+      "readmePath": "3414-maximum-score-of-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3414-maximum-score-of-non-overlapping-intervals.cpp",
+          "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.cpp",
+          "sha": "eb941115efab110fda7b5d747fa626cb555b9213",
+          "lastSyncedAt": "2026-09-12T06:51:14.700Z"
         }
       ]
     },
