@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-08T17:53:56.300Z",
+  "updatedAt": "2026-09-15T14:43:13.104Z",
   "problems": [
+    {
+      "frontendId": "12",
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "problemName": "0012-integer-to-roman",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman/",
+      "folderPath": "0012-integer-to-roman/",
+      "readmePath": "0012-integer-to-roman/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0012-integer-to-roman.cpp",
+          "path": "0012-integer-to-roman/0012-integer-to-roman.cpp",
+          "sha": "bc66b15f0713f913d98bcf541a4cc8f27d994f87",
+          "lastSyncedAt": "2026-09-15T14:43:13.104Z"
+        }
+      ]
+    },
     {
       "frontendId": "290",
       "title": "Word Pattern",
