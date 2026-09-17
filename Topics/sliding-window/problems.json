@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-30T03:58:45.469Z",
+  "updatedAt": "2026-09-17T02:05:29.918Z",
   "problems": [
     {
       "frontendId": "239",
@@ -23,6 +23,26 @@
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.cpp",
           "sha": "700a5a110766043e6da714cb8de7588eac584e40",
           "lastSyncedAt": "2026-08-19T18:02:32.474Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1477",
+      "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+      "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+      "problemName": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/",
+      "folderPath": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/",
+      "readmePath": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
+          "path": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
+          "sha": "cca657331e7688d02244f11f2e9b5e39370c231c",
+          "lastSyncedAt": "2026-09-17T02:05:29.918Z"
         }
       ]
     },
