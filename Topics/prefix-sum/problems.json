@@ -4,8 +4,28 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-05T14:47:54.429Z",
+  "updatedAt": "2026-09-18T13:32:01.371Z",
   "problems": [
+    {
+      "frontendId": "1621",
+      "title": "Number of Sets of K Non-Overlapping Line Segments",
+      "slug": "number-of-sets-of-k-non-overlapping-line-segments",
+      "problemName": "1621-number-of-sets-of-k-non-overlapping-line-segments",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/",
+      "folderPath": "1621-number-of-sets-of-k-non-overlapping-line-segments/",
+      "readmePath": "1621-number-of-sets-of-k-non-overlapping-line-segments/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1621-number-of-sets-of-k-non-overlapping-line-segments.cpp",
+          "path": "1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.cpp",
+          "sha": "872318e8eaa88bcf128e9ced6541acdb4d7caba3",
+          "lastSyncedAt": "2026-09-18T13:32:01.371Z"
+        }
+      ]
+    },
     {
       "frontendId": "3904",
       "title": "Smallest Stable Index II",
