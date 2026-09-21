@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-17T02:05:29.918Z",
+  "updatedAt": "2026-09-21T16:09:08.664Z",
   "problems": [
     {
       "frontendId": "16",
@@ -343,6 +343,26 @@
           "path": "3471-find-the-largest-almost-missing-integer/3471-find-the-largest-almost-missing-integer.cpp",
           "sha": "add24ca05b93283b0a963ef0a93490ad39ea7dd1",
           "lastSyncedAt": "2026-08-30T03:59:33.979Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "3524-find-x-value-of-array-i/",
+      "readmePath": "3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3524-find-x-value-of-array-i.cpp",
+          "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.cpp",
+          "sha": "3d5d1738fe8a0737e156c0b5b7eb403e23af0034",
+          "lastSyncedAt": "2026-09-21T16:09:08.664Z"
         }
       ]
     },
