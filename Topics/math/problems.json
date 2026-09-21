@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-18T13:32:01.371Z",
+  "updatedAt": "2026-09-21T16:09:08.664Z",
   "problems": [
     {
       "frontendId": "12",
@@ -143,6 +143,26 @@
           "path": "1927-sum-game/1927-sum-game.cpp",
           "sha": "ebba4894accfc531f08cb6a35c7c699c988f49f0",
           "lastSyncedAt": "2026-08-30T03:59:12.604Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "3524-find-x-value-of-array-i/",
+      "readmePath": "3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3524-find-x-value-of-array-i.cpp",
+          "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.cpp",
+          "sha": "3d5d1738fe8a0737e156c0b5b7eb403e23af0034",
+          "lastSyncedAt": "2026-09-21T16:09:08.664Z"
         }
       ]
     },
