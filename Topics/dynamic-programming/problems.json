@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-18T13:32:01.371Z",
+  "updatedAt": "2026-09-21T16:09:08.664Z",
   "problems": [
     {
       "frontendId": "44",
@@ -323,6 +323,26 @@
           "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.cpp",
           "sha": "eb941115efab110fda7b5d747fa626cb555b9213",
           "lastSyncedAt": "2026-09-12T06:51:14.700Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "3524-find-x-value-of-array-i/",
+      "readmePath": "3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3524-find-x-value-of-array-i.cpp",
+          "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.cpp",
+          "sha": "3d5d1738fe8a0737e156c0b5b7eb403e23af0034",
+          "lastSyncedAt": "2026-09-21T16:09:08.664Z"
         }
       ]
     }
