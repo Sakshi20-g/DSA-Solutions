@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-17T02:05:29.918Z",
+  "updatedAt": "2026-09-23T17:10:48.501Z",
   "problems": [
     {
       "frontendId": "35",
@@ -83,6 +83,26 @@
           "path": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
           "sha": "cca657331e7688d02244f11f2e9b5e39370c231c",
           "lastSyncedAt": "2026-09-17T02:05:29.918Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "problemName": "1658-minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+      "folderPath": "1658-minimum-operations-to-reduce-x-to-zero/",
+      "readmePath": "1658-minimum-operations-to-reduce-x-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1658-minimum-operations-to-reduce-x-to-zero.cpp",
+          "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.cpp",
+          "sha": "11761feacdee759dae58664514e1550f43956292",
+          "lastSyncedAt": "2026-09-23T17:10:48.501Z"
         }
       ]
     },
