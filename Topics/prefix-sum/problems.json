@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-18T13:32:01.371Z",
+  "updatedAt": "2026-09-23T17:10:48.501Z",
   "problems": [
     {
       "frontendId": "1621",
@@ -23,6 +23,26 @@
           "path": "1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.cpp",
           "sha": "872318e8eaa88bcf128e9ced6541acdb4d7caba3",
           "lastSyncedAt": "2026-09-18T13:32:01.371Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "problemName": "1658-minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+      "folderPath": "1658-minimum-operations-to-reduce-x-to-zero/",
+      "readmePath": "1658-minimum-operations-to-reduce-x-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1658-minimum-operations-to-reduce-x-to-zero.cpp",
+          "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.cpp",
+          "sha": "11761feacdee759dae58664514e1550f43956292",
+          "lastSyncedAt": "2026-09-23T17:10:48.501Z"
         }
       ]
     },
