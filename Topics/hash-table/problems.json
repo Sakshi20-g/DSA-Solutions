@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-23T17:10:48.501Z",
+  "updatedAt": "2026-09-25T16:51:04.393Z",
   "problems": [
     {
       "frontendId": "12",
@@ -43,6 +43,26 @@
           "path": "0290-word-pattern/0290-word-pattern.cpp",
           "sha": "98518d7355f4f9c84cd0e6334b3f16a1a6fa6248",
           "lastSyncedAt": "2026-09-08T17:53:56.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "1096-brace-expansion-ii/",
+      "readmePath": "1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1096-brace-expansion-ii.cpp",
+          "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.cpp",
+          "sha": "c0ccf42f05033a65700e33318dae615b5a5d2223",
+          "lastSyncedAt": "2026-09-25T16:51:04.393Z"
         }
       ]
     },
