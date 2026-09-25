@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking"
+  },
+  "updatedAt": "2026-09-25T16:51:04.393Z",
+  "problems": [
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "1096-brace-expansion-ii/",
+      "readmePath": "1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1096-brace-expansion-ii.cpp",
+          "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.cpp",
+          "sha": "c0ccf42f05033a65700e33318dae615b5a5d2223",
+          "lastSyncedAt": "2026-09-25T16:51:04.393Z"
+        }
+      ]
+    }
+  ]
+}
