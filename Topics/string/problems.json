@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-20T04:14:13.719Z",
+  "updatedAt": "2026-09-25T16:51:04.393Z",
   "problems": [
     {
       "frontendId": "28",
@@ -263,6 +263,26 @@
           "path": "1047-remove-all-adjacent-duplicates-in-string/1047-remove-all-adjacent-duplicates-in-string.cpp",
           "sha": "c298e2f7ef39a36b228c618a6a978fb7b95ae445",
           "lastSyncedAt": "2026-08-30T03:58:17.025Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "1096-brace-expansion-ii/",
+      "readmePath": "1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1096-brace-expansion-ii.cpp",
+          "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.cpp",
+          "sha": "c0ccf42f05033a65700e33318dae615b5a5d2223",
+          "lastSyncedAt": "2026-09-25T16:51:04.393Z"
         }
       ]
     },
