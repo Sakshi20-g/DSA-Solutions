@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-27T12:12:40.655Z",
+  "updatedAt": "2026-09-27T12:18:03.236Z",
   "problems": [
+    {
+      "frontendId": "584",
+      "title": "Find Customer Referee",
+      "slug": "find-customer-referee",
+      "problemName": "0584-find-customer-referee",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-customer-referee/",
+      "folderPath": "0584-find-customer-referee/",
+      "readmePath": "0584-find-customer-referee/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0584-find-customer-referee.sql",
+          "path": "0584-find-customer-referee/0584-find-customer-referee.sql",
+          "sha": "3cdf5c2eb6488dcac7cc0bfdac98cff065be32cb",
+          "lastSyncedAt": "2026-09-27T12:18:03.236Z"
+        }
+      ]
+    },
     {
       "frontendId": "1757",
       "title": "Recyclable and Low Fat Products",
