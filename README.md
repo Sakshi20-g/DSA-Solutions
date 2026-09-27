@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 10 | 10 | 3 |
+| 24 | 11 | 10 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 6 days | 20 |
+| 1 days | 6 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-01 | 1 |
 | 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
 | 2026-09-05 | 2 |
@@ -29,27 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-23 | 1 |
+| 2026-09-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 48% |
-| Dynamic Programming | 6 | 26% |
-| String | 6 | 26% |
-| Binary Search | 5 | 22% |
-| Math | 5 | 22% |
+| Array | 11 | 46% |
+| Dynamic Programming | 6 | 25% |
+| String | 6 | 25% |
+| Binary Search | 5 | 21% |
+| Math | 5 | 21% |
 | Hash Table | 4 | 17% |
 | Prefix Sum | 3 | 13% |
-| Design | 2 | 9% |
-| Linked List | 2 | 9% |
-| Simulation | 2 | 9% |
+| Design | 2 | 8% |
+| Linked List | 2 | 8% |
+| Simulation | 2 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 27 |
+| [Array](Topics/array/) | 28 |
+| [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
@@ -58,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Complete Knapsack](Topics/complete-knapsack/) | 2 |
 | [Counting](Topics/counting/) | 3 |
-| [Database](Topics/database/) | 0 |
+| [Database](Topics/database/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 17 |
@@ -66,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 13 |
+| [Hash Table](Topics/hash-table/) | 14 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
@@ -88,9 +89,9 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 21 |
+| [String](Topics/string/) | 23 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
-| [Z Algorithm](Topics/z-algorithm/) | 1 |
+| [z-algorithm](Topics/z-algorithm/) | 0 |
 <!---LeetHub Summary End-->
