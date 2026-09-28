@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 11 | 10 | 3 |
+| 28 | 15 | 10 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 6 days | 21 |
+| 2 days | 6 days | 22 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
 | 2026-09-05 | 2 |
 | 2026-09-06 | 1 |
@@ -28,28 +27,29 @@ Contains topicwise list of solved problems.
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-23 | 1 |
-| 2026-09-27 | 1 |
+| 2026-09-27 | 3 |
+| 2026-09-28 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 46% |
-| Dynamic Programming | 6 | 25% |
-| String | 6 | 25% |
-| Binary Search | 5 | 21% |
-| Math | 5 | 21% |
-| Hash Table | 4 | 17% |
-| Prefix Sum | 3 | 13% |
-| Design | 2 | 8% |
-| Linked List | 2 | 8% |
-| Simulation | 2 | 8% |
+| Array | 11 | 39% |
+| Dynamic Programming | 6 | 21% |
+| String | 6 | 21% |
+| Binary Search | 5 | 18% |
+| Database | 5 | 18% |
+| Math | 5 | 18% |
+| Hash Table | 4 | 14% |
+| Prefix Sum | 3 | 11% |
+| Design | 2 | 7% |
+| Linked List | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 28 |
+| [Array](Topics/array/) | 29 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -59,9 +59,10 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Complete Knapsack](Topics/complete-knapsack/) | 2 |
 | [Counting](Topics/counting/) | 3 |
-| [Database](Topics/database/) | 1 |
+| [Database](Topics/database/) | 5 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 3 |
+| [divide-and-conquer](Topics/divide-and-conquer/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 17 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 1 |
@@ -93,5 +94,5 @@ Contains topicwise list of solved problems.
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
-| [z-algorithm](Topics/z-algorithm/) | 0 |
+| [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
