@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-23T17:10:48.501Z",
+  "updatedAt": "2026-10-01T14:18:43.921Z",
   "problems": [
     {
       "frontendId": "35",
@@ -43,6 +43,26 @@
           "path": "0278-first-bad-version/0278-first-bad-version.cpp",
           "sha": "02c904c88ac4ff0f763ef3270a53dbfc5ef02d74",
           "lastSyncedAt": "2026-08-30T03:58:22.393Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "0704-binary-search/",
+      "readmePath": "0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0704-binary-search.cpp",
+          "path": "0704-binary-search/0704-binary-search.cpp",
+          "sha": "3331d3ed526325a6ac8b19b8c07cc9a7c72b0beb",
+          "lastSyncedAt": "2026-10-01T14:18:43.921Z"
         }
       ]
     },
