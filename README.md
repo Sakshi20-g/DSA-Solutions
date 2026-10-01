@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 15 | 10 | 3 |
+| 31 | 16 | 12 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 6 days | 22 |
+| 1 days | 6 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-03 | 1 |
 | 2026-09-05 | 2 |
 | 2026-09-06 | 1 |
 | 2026-09-08 | 1 |
@@ -29,29 +28,30 @@ Contains topicwise list of solved problems.
 | 2026-09-23 | 1 |
 | 2026-09-27 | 3 |
 | 2026-09-28 | 2 |
+| 2026-10-01 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 39% |
-| Dynamic Programming | 6 | 21% |
-| String | 6 | 21% |
-| Binary Search | 5 | 18% |
-| Database | 5 | 18% |
-| Math | 5 | 18% |
-| Hash Table | 4 | 14% |
-| Prefix Sum | 3 | 11% |
-| Design | 2 | 7% |
-| Linked List | 2 | 7% |
+| Array | 14 | 45% |
+| Binary Search | 8 | 26% |
+| Dynamic Programming | 6 | 19% |
+| String | 6 | 19% |
+| Database | 5 | 16% |
+| Math | 5 | 16% |
+| Hash Table | 4 | 13% |
+| Prefix Sum | 3 | 10% |
+| Design | 2 | 6% |
+| Linked List | 2 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 29 |
+| [Array](Topics/array/) | 32 |
 | [Backtracking](Topics/backtracking/) | 1 |
-| [Binary Search](Topics/binary-search/) | 6 |
+| [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
@@ -92,6 +92,7 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 23 |
 | [String Matching](Topics/string-matching/) | 1 |
+| [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
