@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "ternary-search",
+    "name": "Ternary Search"
+  },
+  "updatedAt": "2026-10-01T17:09:27.767Z",
+  "problems": [
+    {
+      "frontendId": "852",
+      "title": "Peak Index in a Mountain Array",
+      "slug": "peak-index-in-a-mountain-array",
+      "problemName": "0852-peak-index-in-a-mountain-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+      "folderPath": "0852-peak-index-in-a-mountain-array/",
+      "readmePath": "0852-peak-index-in-a-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0852-peak-index-in-a-mountain-array.cpp",
+          "path": "0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.cpp",
+          "sha": "a3c27b025d025f38cdbc637d970284c458fb60d5",
+          "lastSyncedAt": "2026-10-01T17:09:27.767Z"
+        }
+      ]
+    }
+  ]
+}
