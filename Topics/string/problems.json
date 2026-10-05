@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-27T12:03:51.837Z",
+  "updatedAt": "2026-10-05T17:28:21.735Z",
   "problems": [
     {
       "frontendId": "28",
@@ -223,6 +223,26 @@
           "path": "0583-delete-operation-for-two-strings/0583-delete-operation-for-two-strings.cpp",
           "sha": "70149ceacbdac632ac6d3f2da09b87744d261395",
           "lastSyncedAt": "2026-08-19T18:00:58.782Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "856",
+      "title": "Score of Parentheses",
+      "slug": "score-of-parentheses",
+      "problemName": "0856-score-of-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-parentheses/",
+      "folderPath": "0856-score-of-parentheses/",
+      "readmePath": "0856-score-of-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0856-score-of-parentheses.cpp",
+          "path": "0856-score-of-parentheses/0856-score-of-parentheses.cpp",
+          "sha": "eb3a1c4423d8dd704081255d2aa161725056b0e4",
+          "lastSyncedAt": "2026-10-05T17:28:21.735Z"
         }
       ]
     },
