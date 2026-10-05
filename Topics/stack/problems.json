@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-30T08:58:50.329Z",
+  "updatedAt": "2026-10-05T17:28:21.735Z",
   "problems": [
     {
       "frontendId": "85",
@@ -43,6 +43,26 @@
           "path": "0155-min-stack/0155-min-stack.cpp",
           "sha": "56cd5979a98ca81c6ceecbbb784df2a38ffe3fa6",
           "lastSyncedAt": "2026-08-30T08:58:50.329Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "856",
+      "title": "Score of Parentheses",
+      "slug": "score-of-parentheses",
+      "problemName": "0856-score-of-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-parentheses/",
+      "folderPath": "0856-score-of-parentheses/",
+      "readmePath": "0856-score-of-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0856-score-of-parentheses.cpp",
+          "path": "0856-score-of-parentheses/0856-score-of-parentheses.cpp",
+          "sha": "eb3a1c4423d8dd704081255d2aa161725056b0e4",
+          "lastSyncedAt": "2026-10-05T17:28:21.735Z"
         }
       ]
     },
