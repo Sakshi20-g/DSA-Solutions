@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-05T17:28:21.735Z",
+  "updatedAt": "2026-10-06T17:08:08.446Z",
   "problems": [
     {
       "frontendId": "28",
@@ -243,6 +243,26 @@
           "path": "0856-score-of-parentheses/0856-score-of-parentheses.cpp",
           "sha": "eb3a1c4423d8dd704081255d2aa161725056b0e4",
           "lastSyncedAt": "2026-10-05T17:28:21.735Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "problemName": "0921-minimum-add-to-make-parentheses-valid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+      "folderPath": "0921-minimum-add-to-make-parentheses-valid/",
+      "readmePath": "0921-minimum-add-to-make-parentheses-valid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0921-minimum-add-to-make-parentheses-valid.cpp",
+          "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp",
+          "sha": "541103d3978a65321f86d645d36eec3f64bc66c7",
+          "lastSyncedAt": "2026-10-06T17:08:08.446Z"
         }
       ]
     },
