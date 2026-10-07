@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 16 | 12 | 3 |
+| 33 | 16 | 13 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 6 days | 23 |
+| 1 days | 6 days | 25 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-05 | 2 |
-| 2026-09-06 | 1 |
 | 2026-09-08 | 1 |
 | 2026-09-09 | 1 |
 | 2026-09-10 | 1 |
@@ -29,19 +27,21 @@ Contains topicwise list of solved problems.
 | 2026-09-27 | 3 |
 | 2026-09-28 | 2 |
 | 2026-10-01 | 3 |
+| 2026-10-02 | 1 |
+| 2026-10-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 45% |
-| Binary Search | 8 | 26% |
-| Dynamic Programming | 6 | 19% |
-| String | 6 | 19% |
-| Database | 5 | 16% |
-| Math | 5 | 16% |
-| Hash Table | 4 | 13% |
-| Prefix Sum | 3 | 10% |
+| Array | 15 | 45% |
+| Binary Search | 9 | 27% |
+| String | 7 | 21% |
+| Dynamic Programming | 6 | 18% |
+| Database | 5 | 15% |
+| Math | 5 | 15% |
+| Hash Table | 4 | 12% |
+| Prefix Sum | 3 | 9% |
 | Design | 2 | 6% |
 | Linked List | 2 | 6% |
 
@@ -49,13 +49,14 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 32 |
-| [Backtracking](Topics/backtracking/) | 1 |
-| [Binary Search](Topics/binary-search/) | 9 |
+| [Array](Topics/array/) | 34 |
+| [Backtracking](Topics/backtracking/) | 2 |
+| [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
+| [bracket-sequences](Topics/bracket-sequences/) | 0 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Complete Knapsack](Topics/complete-knapsack/) | 2 |
 | [Counting](Topics/counting/) | 3 |
@@ -89,8 +90,8 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 7 |
-| [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 23 |
+| [Stack](Topics/stack/) | 6 |
+| [String](Topics/string/) | 26 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
