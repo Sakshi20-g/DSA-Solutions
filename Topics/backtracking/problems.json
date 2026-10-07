@@ -4,8 +4,28 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-25T16:51:04.393Z",
+  "updatedAt": "2026-10-07T18:13:28.629Z",
   "problems": [
+    {
+      "frontendId": "301",
+      "title": "Remove Invalid Parentheses",
+      "slug": "remove-invalid-parentheses",
+      "problemName": "0301-remove-invalid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses/",
+      "folderPath": "0301-remove-invalid-parentheses/",
+      "readmePath": "0301-remove-invalid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0301-remove-invalid-parentheses.cpp",
+          "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.cpp",
+          "sha": "45ce71e1087442cc8182f49ed5f96a0ec1f75d06",
+          "lastSyncedAt": "2026-10-07T18:13:28.629Z"
+        }
+      ]
+    },
     {
       "frontendId": "1096",
       "title": "Brace Expansion II",
