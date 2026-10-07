@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-08-30T03:59:22.069Z",
+  "updatedAt": "2026-10-07T18:13:28.629Z",
   "problems": [
     {
       "frontendId": "101",
@@ -23,6 +23,26 @@
           "path": "0101-symmetric-tree/0101-symmetric-tree.cpp",
           "sha": "89176507381ff40e2643bb66306fed31188bb579",
           "lastSyncedAt": "2026-08-30T03:59:22.069Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "301",
+      "title": "Remove Invalid Parentheses",
+      "slug": "remove-invalid-parentheses",
+      "problemName": "0301-remove-invalid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses/",
+      "folderPath": "0301-remove-invalid-parentheses/",
+      "readmePath": "0301-remove-invalid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0301-remove-invalid-parentheses.cpp",
+          "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.cpp",
+          "sha": "45ce71e1087442cc8182f49ed5f96a0ec1f75d06",
+          "lastSyncedAt": "2026-10-07T18:13:28.629Z"
         }
       ]
     },
