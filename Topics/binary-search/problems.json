@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "binary-search",
-    "name": "Binary Search"
+    "name": "Binary Search",
+    "tagId": "11"
   },
-  "updatedAt": "2026-10-02T07:52:46.643Z",
+  "updatedAt": "2026-10-10T17:33:39.350Z",
   "problems": [
     {
       "frontendId": "34",
@@ -183,6 +184,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.cpp",
           "sha": "11761feacdee759dae58664514e1550f43956292",
           "lastSyncedAt": "2026-09-23T17:10:48.501Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "2333-minimum-sum-of-squared-difference/",
+      "readmePath": "2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2333-minimum-sum-of-squared-difference.cpp",
+          "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
+          "sha": "5e3058950a70695dcec9c02f46eff808dbaea79d",
+          "lastSyncedAt": "2026-10-10T17:33:39.350Z"
         }
       ]
     },
