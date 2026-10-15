@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 16 | 16 | 4 |
+| 37 | 16 | 17 | 4 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-02 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-14 | 1 |
-| 2026-10-15 | 2 |
+| 2026-10-15 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 50% |
-| Binary Search | 11 | 31% |
+| Array | 19 | 51% |
+| Binary Search | 11 | 30% |
 | String | 7 | 19% |
-| Dynamic Programming | 6 | 17% |
+| Dynamic Programming | 6 | 16% |
+| Math | 6 | 16% |
 | Database | 5 | 14% |
 | Hash Table | 5 | 14% |
-| Math | 5 | 14% |
-| Sorting | 4 | 11% |
-| Heap (Priority Queue) | 3 | 8% |
+| Sorting | 5 | 14% |
+| Heap (Priority Queue) | 4 | 11% |
 | Prefix Sum | 3 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 40 |
+| [Array](Topics/array/) | 41 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 13 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -64,20 +64,21 @@ Contains topicwise list of solved problems.
 | [Database](Topics/database/) | 5 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 3 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 17 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 1 |
-| [Geometry](Topics/geometry/) | 1 |
+| [Geometry](Topics/geometry/) | 2 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 16 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 7 |
 | [Interactive](Topics/interactive/) | 1 |
+| [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 2 |
-| [Math](Topics/math/) | 14 |
+| [Math](Topics/math/) | 15 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
@@ -86,12 +87,12 @@ Contains topicwise list of solved problems.
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Queue](Topics/queue/) | 2 |
-| [Quickselect](Topics/quickselect/) | 1 |
+| [Quickselect](Topics/quickselect/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 6 |
-| [Sorting](Topics/sorting/) | 10 |
+| [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 7 |
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
