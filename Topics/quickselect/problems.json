@@ -5,7 +5,7 @@
     "name": "Quickselect",
     "tagId": "61069"
   },
-  "updatedAt": "2026-10-15T04:06:25.096Z",
+  "updatedAt": "2026-10-15T05:25:17.897Z",
   "problems": [
     {
       "frontendId": "347",
@@ -24,6 +24,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "fa958488542833e66569cc5a834a2bbe3c0eca51",
           "lastSyncedAt": "2026-10-15T04:06:25.096Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "973",
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "problemName": "0973-k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-closest-points-to-origin/",
+      "folderPath": "0973-k-closest-points-to-origin/",
+      "readmePath": "0973-k-closest-points-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0973-k-closest-points-to-origin.cpp",
+          "path": "0973-k-closest-points-to-origin/0973-k-closest-points-to-origin.cpp",
+          "sha": "f428c5b876672f07b2bf2edb929ae827c8d99778",
+          "lastSyncedAt": "2026-10-15T05:25:17.897Z"
         }
       ]
     }
