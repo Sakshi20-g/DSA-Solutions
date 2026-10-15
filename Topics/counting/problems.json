@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "counting",
-    "name": "Counting"
+    "name": "Counting",
+    "tagId": "61062"
   },
-  "updatedAt": "2026-08-19T18:02:28.695Z",
+  "updatedAt": "2026-10-15T04:06:25.096Z",
   "problems": [
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0347-top-k-frequent-elements.cpp",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
+          "sha": "fa958488542833e66569cc5a834a2bbe3c0eca51",
+          "lastSyncedAt": "2026-10-15T04:06:25.096Z"
+        }
+      ]
+    },
     {
       "frontendId": "3866",
       "title": "First Unique Even Element",
