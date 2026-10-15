@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 37 | 16 | 17 | 4 |
+| 38 | 17 | 17 | 4 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-02 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-14 | 1 |
-| 2026-10-15 | 3 |
+| 2026-10-15 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 51% |
-| Binary Search | 11 | 30% |
-| String | 7 | 19% |
+| Array | 19 | 50% |
+| Binary Search | 11 | 29% |
+| String | 7 | 18% |
+| Database | 6 | 16% |
 | Dynamic Programming | 6 | 16% |
 | Math | 6 | 16% |
-| Database | 5 | 14% |
-| Hash Table | 5 | 14% |
-| Sorting | 5 | 14% |
+| Hash Table | 5 | 13% |
+| Sorting | 5 | 13% |
 | Heap (Priority Queue) | 4 | 11% |
 | Prefix Sum | 3 | 8% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 41 |
+| [Array](Topics/array/) | 42 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 13 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -61,7 +61,7 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Complete Knapsack](Topics/complete-knapsack/) | 2 |
 | [Counting](Topics/counting/) | 4 |
-| [Database](Topics/database/) | 5 |
+| [Database](Topics/database/) | 6 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
