@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-15T04:56:34.530Z",
+  "updatedAt": "2026-10-15T05:25:17.897Z",
   "problems": [
     {
       "frontendId": "16",
@@ -84,6 +84,26 @@
           "path": "0658-find-k-closest-elements/0658-find-k-closest-elements.cpp",
           "sha": "51ec5303ce31c50d97e3a256e0be59e5dafc7ee6",
           "lastSyncedAt": "2026-10-15T04:56:34.530Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "973",
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "problemName": "0973-k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-closest-points-to-origin/",
+      "folderPath": "0973-k-closest-points-to-origin/",
+      "readmePath": "0973-k-closest-points-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0973-k-closest-points-to-origin.cpp",
+          "path": "0973-k-closest-points-to-origin/0973-k-closest-points-to-origin.cpp",
+          "sha": "f428c5b876672f07b2bf2edb929ae827c8d99778",
+          "lastSyncedAt": "2026-10-15T05:25:17.897Z"
         }
       ]
     },
