@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 34 | 16 | 14 | 4 |
+| 36 | 16 | 16 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 6 days | 26 |
+| 2 days | 6 days | 27 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-09 | 1 |
 | 2026-09-10 | 1 |
 | 2026-09-12 | 1 |
 | 2026-09-17 | 1 |
@@ -29,48 +28,50 @@ Contains topicwise list of solved problems.
 | 2026-10-02 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-14 | 1 |
+| 2026-10-15 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 47% |
-| Binary Search | 10 | 29% |
-| String | 7 | 21% |
-| Dynamic Programming | 6 | 18% |
-| Database | 5 | 15% |
-| Math | 5 | 15% |
-| Hash Table | 4 | 12% |
-| Prefix Sum | 3 | 9% |
-| Design | 2 | 6% |
-| Linked List | 2 | 6% |
+| Array | 18 | 50% |
+| Binary Search | 11 | 31% |
+| String | 7 | 19% |
+| Dynamic Programming | 6 | 17% |
+| Database | 5 | 14% |
+| Hash Table | 5 | 14% |
+| Math | 5 | 14% |
+| Sorting | 4 | 11% |
+| Heap (Priority Queue) | 3 | 8% |
+| Prefix Sum | 3 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 37 |
+| [Array](Topics/array/) | 40 |
 | [Backtracking](Topics/backtracking/) | 2 |
-| [Binary Search](Topics/binary-search/) | 12 |
+| [Binary Search](Topics/binary-search/) | 13 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [bracket-sequences](Topics/bracket-sequences/) | 0 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 3 |
+| [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Complete Knapsack](Topics/complete-knapsack/) | 2 |
-| [Counting](Topics/counting/) | 3 |
+| [Counting](Topics/counting/) | 4 |
 | [Database](Topics/database/) | 5 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 3 |
-| [divide-and-conquer](Topics/divide-and-conquer/) | 0 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 17 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 14 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
+| [Hash Table](Topics/hash-table/) | 16 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -85,16 +86,17 @@ Contains topicwise list of solved problems.
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Queue](Topics/queue/) | 2 |
+| [Quickselect](Topics/quickselect/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
-| [Sliding Window](Topics/sliding-window/) | 5 |
-| [Sorting](Topics/sorting/) | 8 |
+| [Sliding Window](Topics/sliding-window/) | 6 |
+| [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 7 |
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 6 |
+| [Two Pointers](Topics/two-pointers/) | 7 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
