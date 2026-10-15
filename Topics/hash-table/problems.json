@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-15T04:06:25.096Z",
+  "updatedAt": "2026-10-15T04:26:41.924Z",
   "problems": [
     {
       "frontendId": "12",
@@ -104,6 +104,26 @@
           "path": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
           "sha": "cca657331e7688d02244f11f2e9b5e39370c231c",
           "lastSyncedAt": "2026-09-17T02:05:29.918Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1636",
+      "title": "Sort Array by Increasing Frequency",
+      "slug": "sort-array-by-increasing-frequency",
+      "problemName": "1636-sort-array-by-increasing-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-increasing-frequency/",
+      "folderPath": "1636-sort-array-by-increasing-frequency/",
+      "readmePath": "1636-sort-array-by-increasing-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1636-sort-array-by-increasing-frequency.cpp",
+          "path": "1636-sort-array-by-increasing-frequency/1636-sort-array-by-increasing-frequency.cpp",
+          "sha": "1a2300b9124acc83d962166bc661a78e7607cbfb",
+          "lastSyncedAt": "2026-10-15T04:26:41.924Z"
         }
       ]
     },
