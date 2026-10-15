@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-15T04:54:56.351Z",
+  "updatedAt": "2026-10-15T04:56:34.530Z",
   "problems": [
     {
       "frontendId": "34",
@@ -123,7 +123,7 @@
           "filename": "0658-find-k-closest-elements.cpp",
           "path": "0658-find-k-closest-elements/0658-find-k-closest-elements.cpp",
           "sha": "51ec5303ce31c50d97e3a256e0be59e5dafc7ee6",
-          "lastSyncedAt": "2026-10-15T04:54:56.351Z"
+          "lastSyncedAt": "2026-10-15T04:56:34.530Z"
         }
       ]
     },
