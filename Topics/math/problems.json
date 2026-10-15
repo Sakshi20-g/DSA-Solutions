@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "math",
-    "name": "Math"
+    "name": "Math",
+    "tagId": "8"
   },
-  "updatedAt": "2026-09-21T16:09:08.664Z",
+  "updatedAt": "2026-10-15T05:25:17.897Z",
   "problems": [
     {
       "frontendId": "12",
@@ -83,6 +84,26 @@
           "path": "0258-add-digits/0258-add-digits.cpp",
           "sha": "1f4fcdadebf48e99da7ec22877cef25e06a139c6",
           "lastSyncedAt": "2026-08-30T03:58:30.187Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "973",
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "problemName": "0973-k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-closest-points-to-origin/",
+      "folderPath": "0973-k-closest-points-to-origin/",
+      "readmePath": "0973-k-closest-points-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0973-k-closest-points-to-origin.cpp",
+          "path": "0973-k-closest-points-to-origin/0973-k-closest-points-to-origin.cpp",
+          "sha": "f428c5b876672f07b2bf2edb929ae827c8d99778",
+          "lastSyncedAt": "2026-10-15T05:25:17.897Z"
         }
       ]
     },
