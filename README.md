@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 40 | 19 | 17 | 4 |
+| 41 | 20 | 17 | 4 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-07 | 1 |
 | 2026-10-14 | 1 |
 | 2026-10-15 | 5 |
-| 2026-10-16 | 1 |
+| 2026-10-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 48% |
-| Binary Search | 11 | 28% |
-| Database | 8 | 20% |
-| String | 7 | 18% |
+| Array | 19 | 46% |
+| Binary Search | 11 | 27% |
+| Database | 9 | 22% |
+| String | 7 | 17% |
 | Dynamic Programming | 6 | 15% |
 | Math | 6 | 15% |
-| Hash Table | 5 | 13% |
-| Sorting | 5 | 13% |
+| Hash Table | 5 | 12% |
+| Sorting | 5 | 12% |
 | Heap (Priority Queue) | 4 | 10% |
-| Prefix Sum | 3 | 8% |
+| Prefix Sum | 3 | 7% |
 
 ## Topics
 
@@ -61,7 +61,7 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Complete Knapsack](Topics/complete-knapsack/) | 2 |
 | [Counting](Topics/counting/) | 4 |
-| [Database](Topics/database/) | 8 |
+| [Database](Topics/database/) | 9 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
