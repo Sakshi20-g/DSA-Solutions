@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-15T13:17:57.934Z",
+  "updatedAt": "2026-10-16T11:50:25.021Z",
   "problems": [
+    {
+      "frontendId": "577",
+      "title": "Employee Bonus",
+      "slug": "employee-bonus",
+      "problemName": "0577-employee-bonus",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/employee-bonus/",
+      "folderPath": "0577-employee-bonus/",
+      "readmePath": "0577-employee-bonus/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0577-employee-bonus.sql",
+          "path": "0577-employee-bonus/0577-employee-bonus.sql",
+          "sha": "c53bcaba491fed7f67950620648bb0032ae3ad88",
+          "lastSyncedAt": "2026-10-16T11:50:25.021Z"
+        }
+      ]
+    },
     {
       "frontendId": "584",
       "title": "Find Customer Referee",
