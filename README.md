@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 38 | 17 | 17 | 4 |
+| 40 | 19 | 17 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 6 days | 27 |
+| 3 days | 6 days | 28 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-10 | 1 |
 | 2026-09-12 | 1 |
 | 2026-09-17 | 1 |
 | 2026-09-18 | 1 |
@@ -28,21 +27,22 @@ Contains topicwise list of solved problems.
 | 2026-10-02 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-14 | 1 |
-| 2026-10-15 | 4 |
+| 2026-10-15 | 5 |
+| 2026-10-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 50% |
-| Binary Search | 11 | 29% |
+| Array | 19 | 48% |
+| Binary Search | 11 | 28% |
+| Database | 8 | 20% |
 | String | 7 | 18% |
-| Database | 6 | 16% |
-| Dynamic Programming | 6 | 16% |
-| Math | 6 | 16% |
+| Dynamic Programming | 6 | 15% |
+| Math | 6 | 15% |
 | Hash Table | 5 | 13% |
 | Sorting | 5 | 13% |
-| Heap (Priority Queue) | 4 | 11% |
+| Heap (Priority Queue) | 4 | 10% |
 | Prefix Sum | 3 | 8% |
 
 ## Topics
@@ -61,7 +61,7 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Complete Knapsack](Topics/complete-knapsack/) | 2 |
 | [Counting](Topics/counting/) | 4 |
-| [Database](Topics/database/) | 6 |
+| [Database](Topics/database/) | 8 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
