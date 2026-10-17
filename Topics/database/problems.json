@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-17T13:29:58.851Z",
+  "updatedAt": "2026-10-17T13:41:49.976Z",
   "problems": [
     {
       "frontendId": "570",
@@ -244,6 +244,26 @@
           "path": "1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql",
           "sha": "2d1359536622e2c2d9c712f51a971d60841e81c5",
           "lastSyncedAt": "2026-09-27T12:12:40.655Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1934",
+      "title": "Confirmation Rate",
+      "slug": "confirmation-rate",
+      "problemName": "1934-confirmation-rate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/confirmation-rate/",
+      "folderPath": "1934-confirmation-rate/",
+      "readmePath": "1934-confirmation-rate/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1934-confirmation-rate.sql",
+          "path": "1934-confirmation-rate/1934-confirmation-rate.sql",
+          "sha": "2729a5cdbfeaac407330dab9ca2bbf2c1ba049e4",
+          "lastSyncedAt": "2026-10-17T13:41:49.976Z"
         }
       ]
     }
