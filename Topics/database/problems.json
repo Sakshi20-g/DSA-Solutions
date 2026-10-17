@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-16T12:54:21.618Z",
+  "updatedAt": "2026-10-17T09:22:04.238Z",
   "problems": [
+    {
+      "frontendId": "570",
+      "title": "Managers with at Least 5 Direct Reports",
+      "slug": "managers-with-at-least-5-direct-reports",
+      "problemName": "0570-managers-with-at-least-5-direct-reports",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports/",
+      "folderPath": "0570-managers-with-at-least-5-direct-reports/",
+      "readmePath": "0570-managers-with-at-least-5-direct-reports/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0570-managers-with-at-least-5-direct-reports.sql",
+          "path": "0570-managers-with-at-least-5-direct-reports/0570-managers-with-at-least-5-direct-reports.sql",
+          "sha": "9fc29a592ab9d310251170d6cc7f97cf9ff88549",
+          "lastSyncedAt": "2026-10-17T09:22:04.238Z"
+        }
+      ]
+    },
     {
       "frontendId": "577",
       "title": "Employee Bonus",
