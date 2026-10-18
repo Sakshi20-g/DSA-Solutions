@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-15T04:06:25.096Z",
+  "updatedAt": "2026-10-18T15:08:10.971Z",
   "problems": [
     {
       "frontendId": "347",
@@ -24,6 +24,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "fa958488542833e66569cc5a834a2bbe3c0eca51",
           "lastSyncedAt": "2026-10-15T04:06:25.096Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2442",
+      "title": "Count Number of Distinct Integers After Reverse Operations",
+      "slug": "count-number-of-distinct-integers-after-reverse-operations",
+      "problemName": "2442-count-number-of-distinct-integers-after-reverse-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/",
+      "folderPath": "2442-count-number-of-distinct-integers-after-reverse-operations/",
+      "readmePath": "2442-count-number-of-distinct-integers-after-reverse-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2442-count-number-of-distinct-integers-after-reverse-operations.cpp",
+          "path": "2442-count-number-of-distinct-integers-after-reverse-operations/2442-count-number-of-distinct-integers-after-reverse-operations.cpp",
+          "sha": "cbd908501f9a0165533daecf8cfaed8d36e4c752",
+          "lastSyncedAt": "2026-10-18T15:08:10.971Z"
         }
       ]
     },
