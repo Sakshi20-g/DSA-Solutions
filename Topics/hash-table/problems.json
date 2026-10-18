@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-15T04:26:41.924Z",
+  "updatedAt": "2026-10-18T15:08:10.971Z",
   "problems": [
     {
       "frontendId": "12",
@@ -144,6 +144,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.cpp",
           "sha": "11761feacdee759dae58664514e1550f43956292",
           "lastSyncedAt": "2026-09-23T17:10:48.501Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2442",
+      "title": "Count Number of Distinct Integers After Reverse Operations",
+      "slug": "count-number-of-distinct-integers-after-reverse-operations",
+      "problemName": "2442-count-number-of-distinct-integers-after-reverse-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/",
+      "folderPath": "2442-count-number-of-distinct-integers-after-reverse-operations/",
+      "readmePath": "2442-count-number-of-distinct-integers-after-reverse-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2442-count-number-of-distinct-integers-after-reverse-operations.cpp",
+          "path": "2442-count-number-of-distinct-integers-after-reverse-operations/2442-count-number-of-distinct-integers-after-reverse-operations.cpp",
+          "sha": "cbd908501f9a0165533daecf8cfaed8d36e4c752",
+          "lastSyncedAt": "2026-10-18T15:08:10.971Z"
         }
       ]
     },
