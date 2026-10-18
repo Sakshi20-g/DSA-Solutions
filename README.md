@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 45 | 22 | 19 | 4 |
+| 46 | 22 | 20 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 6 days | 29 |
+| 5 days | 6 days | 30 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-17 | 1 |
 | 2026-09-18 | 1 |
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
@@ -29,18 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-10-15 | 5 |
 | 2026-10-16 | 3 |
 | 2026-10-17 | 3 |
+| 2026-10-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 42% |
-| Database | 13 | 29% |
+| Array | 20 | 43% |
+| Database | 13 | 28% |
 | Binary Search | 11 | 24% |
-| String | 7 | 16% |
+| Math | 7 | 15% |
+| String | 7 | 15% |
 | Dynamic Programming | 6 | 13% |
-| Math | 6 | 13% |
-| Hash Table | 5 | 11% |
+| Hash Table | 6 | 13% |
 | Sorting | 5 | 11% |
 | Heap (Priority Queue) | 4 | 9% |
 | Prefix Sum | 3 | 7% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 42 |
+| [Array](Topics/array/) | 43 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 13 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -60,7 +60,7 @@ Contains topicwise list of solved problems.
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Complete Knapsack](Topics/complete-knapsack/) | 2 |
-| [Counting](Topics/counting/) | 4 |
+| [Counting](Topics/counting/) | 5 |
 | [Database](Topics/database/) | 13 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 3 |
@@ -70,7 +70,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 16 |
+| [Hash Table](Topics/hash-table/) | 17 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 7 |
 | [Interactive](Topics/interactive/) | 1 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
@@ -78,7 +78,7 @@ Contains topicwise list of solved problems.
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 2 |
-| [Math](Topics/math/) | 15 |
+| [Math](Topics/math/) | 16 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
