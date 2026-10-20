@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-19T17:41:48.600Z",
+  "updatedAt": "2026-10-20T03:51:51.644Z",
   "problems": [
     {
       "frontendId": "570",
@@ -124,6 +124,26 @@
           "path": "1068-product-sales-analysis-i/1068-product-sales-analysis-i.sql",
           "sha": "c3fc0802a4813cc45867889c6694d59bff240c60",
           "lastSyncedAt": "2026-10-16T12:54:21.618Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1075",
+      "title": "Project Employees I",
+      "slug": "project-employees-i",
+      "problemName": "1075-project-employees-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/project-employees-i/",
+      "folderPath": "1075-project-employees-i/",
+      "readmePath": "1075-project-employees-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1075-project-employees-i.sql",
+          "path": "1075-project-employees-i/1075-project-employees-i.sql",
+          "sha": "75ded132c75a7f2cb7c62b16c1e28466be7403ae",
+          "lastSyncedAt": "2026-10-20T03:51:51.644Z"
         }
       ]
     },
