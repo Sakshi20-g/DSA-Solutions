@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-23T16:13:25.402Z",
+  "updatedAt": "2026-10-23T16:50:30.210Z",
   "problems": [
+    {
+      "frontendId": "550",
+      "title": "Game Play Analysis IV",
+      "slug": "game-play-analysis-iv",
+      "problemName": "0550-game-play-analysis-iv",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/game-play-analysis-iv/",
+      "folderPath": "0550-game-play-analysis-iv/",
+      "readmePath": "0550-game-play-analysis-iv/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0550-game-play-analysis-iv.sql",
+          "path": "0550-game-play-analysis-iv/0550-game-play-analysis-iv.sql",
+          "sha": "5b9e5415f5644bb62c0322bcf63db1a9eaeaf339",
+          "lastSyncedAt": "2026-10-23T16:50:30.210Z"
+        }
+      ]
+    },
     {
       "frontendId": "570",
       "title": "Managers with at Least 5 Direct Reports",
