@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-25T04:19:52.965Z",
+  "updatedAt": "2026-10-25T05:46:06.238Z",
   "problems": [
     {
       "frontendId": "16",
@@ -344,6 +344,26 @@
           "path": "0518-coin-change-ii/0518-coin-change-ii.cpp",
           "sha": "c252cfe5e95f77e69dd06475ab8388fb03afd0ed",
           "lastSyncedAt": "2026-08-19T18:01:20.816Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "problemName": "0540-single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+      "folderPath": "0540-single-element-in-a-sorted-array/",
+      "readmePath": "0540-single-element-in-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0540-single-element-in-a-sorted-array.cpp",
+          "path": "0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.cpp",
+          "sha": "6d8b5cb3dc81ffdda41d7d9d671c0c5c26fc4b88",
+          "lastSyncedAt": "2026-10-25T05:46:06.238Z"
         }
       ]
     },
