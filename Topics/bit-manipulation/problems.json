@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "bit-manipulation",
-    "name": "Bit Manipulation"
+    "name": "Bit Manipulation",
+    "tagId": "19"
   },
-  "updatedAt": "2026-09-01T17:59:34.185Z",
+  "updatedAt": "2026-10-25T04:08:03.122Z",
   "problems": [
     {
       "frontendId": "67",
@@ -23,6 +24,26 @@
           "path": "0067-add-binary/0067-add-binary.cpp",
           "sha": "fd93ad2c548d7ad04fcb211f7b0ffc3a9b3c3e49",
           "lastSyncedAt": "2026-08-18T17:05:36.270Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0268-missing-number.cpp",
+          "path": "0268-missing-number/0268-missing-number.cpp",
+          "sha": "a4c50deef822f88c476d291ae94830b1efbe935d",
+          "lastSyncedAt": "2026-10-25T04:08:03.122Z"
         }
       ]
     },
