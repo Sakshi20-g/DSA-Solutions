@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 54 | 28 | 22 | 4 |
+| 55 | 28 | 23 | 4 |
 
 ## Activity
 
@@ -28,15 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-10-20 | 1 |
 | 2026-10-23 | 2 |
 | 2026-10-24 | 3 |
-| 2026-10-25 | 2 |
+| 2026-10-25 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 43% |
+| Array | 24 | 44% |
 | Database | 18 | 33% |
-| Binary Search | 12 | 22% |
+| Binary Search | 13 | 24% |
 | Math | 8 | 15% |
 | Hash Table | 7 | 13% |
 | String | 7 | 13% |
@@ -49,9 +49,9 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 47 |
+| [Array](Topics/array/) | 48 |
 | [Backtracking](Topics/backtracking/) | 2 |
-| [Binary Search](Topics/binary-search/) | 14 |
+| [Binary Search](Topics/binary-search/) | 15 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
