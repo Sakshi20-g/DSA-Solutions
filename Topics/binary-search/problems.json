@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-25T04:08:03.122Z",
+  "updatedAt": "2026-10-25T05:46:06.238Z",
   "problems": [
     {
       "frontendId": "34",
@@ -124,6 +124,26 @@
           "path": "0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.cpp",
           "sha": "c0f1e5677eee8ac2481515df967b5c14cd6bb7b6",
           "lastSyncedAt": "2026-10-14T18:03:12.962Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "problemName": "0540-single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+      "folderPath": "0540-single-element-in-a-sorted-array/",
+      "readmePath": "0540-single-element-in-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0540-single-element-in-a-sorted-array.cpp",
+          "path": "0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.cpp",
+          "sha": "6d8b5cb3dc81ffdda41d7d9d671c0c5c26fc4b88",
+          "lastSyncedAt": "2026-10-25T05:46:06.238Z"
         }
       ]
     },
