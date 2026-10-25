@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-25T04:08:03.122Z",
+  "updatedAt": "2026-10-25T04:19:52.965Z",
   "problems": [
     {
       "frontendId": "16",
@@ -304,6 +304,26 @@
           "path": "0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.cpp",
           "sha": "c0f1e5677eee8ac2481515df967b5c14cd6bb7b6",
           "lastSyncedAt": "2026-10-14T18:03:12.962Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "485",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "problemName": "0485-max-consecutive-ones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
+      "folderPath": "0485-max-consecutive-ones/",
+      "readmePath": "0485-max-consecutive-ones/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0485-max-consecutive-ones.cpp",
+          "path": "0485-max-consecutive-ones/0485-max-consecutive-ones.cpp",
+          "sha": "ae2d15ed17c5f75636c0ada51e8acfeac7852438",
+          "lastSyncedAt": "2026-10-25T04:19:52.965Z"
         }
       ]
     },
