@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-15T05:25:17.897Z",
+  "updatedAt": "2026-10-25T04:08:03.122Z",
   "problems": [
     {
       "frontendId": "16",
@@ -24,6 +24,26 @@
           "path": "0016-3sum-closest/0016-3sum-closest.cpp",
           "sha": "a52c2dca14374d3559b533c0428ac2b89fcef9c5",
           "lastSyncedAt": "2026-08-30T03:58:51.632Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0268-missing-number.cpp",
+          "path": "0268-missing-number/0268-missing-number.cpp",
+          "sha": "a4c50deef822f88c476d291ae94830b1efbe935d",
+          "lastSyncedAt": "2026-10-25T04:08:03.122Z"
         }
       ]
     },
