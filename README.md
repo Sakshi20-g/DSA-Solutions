@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 56 | 29 | 23 | 4 |
+| 58 | 29 | 25 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 6 days | 35 |
+| 1 days | 6 days | 37 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-28 | 2 |
-| 2026-10-01 | 3 |
 | 2026-10-02 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-14 | 1 |
@@ -29,20 +27,22 @@ Contains topicwise list of solved problems.
 | 2026-10-24 | 3 |
 | 2026-10-25 | 3 |
 | 2026-10-27 | 1 |
+| 2026-10-30 | 1 |
+| 2026-11-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 43% |
-| Database | 18 | 32% |
-| Binary Search | 13 | 23% |
+| Array | 24 | 41% |
+| Database | 18 | 31% |
+| Binary Search | 13 | 22% |
+| String | 9 | 16% |
+| Hash Table | 8 | 14% |
 | Math | 8 | 14% |
-| Hash Table | 7 | 13% |
-| String | 7 | 13% |
-| Dynamic Programming | 6 | 11% |
-| Sorting | 6 | 11% |
-| Heap (Priority Queue) | 4 | 7% |
+| Dynamic Programming | 6 | 10% |
+| Sorting | 6 | 10% |
+| Heap (Priority Queue) | 5 | 9% |
 | Two Pointers | 4 | 7% |
 
 ## Topics
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 48 |
-| [Backtracking](Topics/backtracking/) | 2 |
+| [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 15 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
@@ -69,9 +69,10 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Geometry](Topics/geometry/) | 2 |
+| [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 18 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 7 |
+| [Hash Table](Topics/hash-table/) | 19 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Interactive](Topics/interactive/) | 1 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
@@ -90,11 +91,12 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
+| [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 6 |
 | [Sorting](Topics/sorting/) | 12 |
 | [Stack](Topics/stack/) | 7 |
-| [String](Topics/string/) | 27 |
+| [String](Topics/string/) | 29 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
