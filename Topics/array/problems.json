@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-02T18:25:19.541Z",
+  "updatedAt": "2026-11-03T18:02:15.877Z",
   "problems": [
     {
       "frontendId": "16",
@@ -864,6 +864,26 @@
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.cpp",
           "sha": "2ee87e15894a176cbc1673cad91c5315089bd51d",
           "lastSyncedAt": "2026-09-05T14:49:16.859Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.cpp",
+          "path": "3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.cpp",
+          "sha": "09d3a9486fb936165f590b0004db67ebcfdc8539",
+          "lastSyncedAt": "2026-11-03T18:02:15.877Z"
         }
       ]
     },
