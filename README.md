@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 58 | 29 | 25 | 4 |
+| 59 | 30 | 25 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 6 days | 37 |
+| 1 days | 6 days | 38 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-02 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-14 | 1 |
 | 2026-10-15 | 5 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-27 | 1 |
 | 2026-10-30 | 1 |
 | 2026-11-01 | 1 |
+| 2026-11-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 41% |
+| Array | 25 | 42% |
 | Database | 18 | 31% |
 | Binary Search | 13 | 22% |
-| String | 9 | 16% |
+| Math | 9 | 15% |
+| String | 9 | 15% |
 | Hash Table | 8 | 14% |
-| Math | 8 | 14% |
 | Dynamic Programming | 6 | 10% |
 | Sorting | 6 | 10% |
-| Heap (Priority Queue) | 5 | 9% |
+| Heap (Priority Queue) | 5 | 8% |
 | Two Pointers | 4 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 48 |
+| [Array](Topics/array/) | 50 |
 | [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 15 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 2 |
-| [Math](Topics/math/) | 17 |
+| [Math](Topics/math/) | 18 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
