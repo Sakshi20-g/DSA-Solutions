@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-25T04:08:03.122Z",
+  "updatedAt": "2026-11-03T18:02:15.877Z",
   "problems": [
     {
       "frontendId": "12",
@@ -244,6 +244,26 @@
           "path": "3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.cpp",
           "sha": "46fd590157681a7bbd075d852983fa7d8c84decf",
           "lastSyncedAt": "2026-08-22T17:34:54.953Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.cpp",
+          "path": "3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.cpp",
+          "sha": "09d3a9486fb936165f590b0004db67ebcfdc8539",
+          "lastSyncedAt": "2026-11-03T18:02:15.877Z"
         }
       ]
     },
