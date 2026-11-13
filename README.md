@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 59 | 30 | 25 | 4 |
+| 60 | 30 | 26 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 6 days | 38 |
+| 1 days | 6 days | 39 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-07 | 1 |
 | 2026-10-14 | 1 |
 | 2026-10-15 | 5 |
 | 2026-10-16 | 3 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-30 | 1 |
 | 2026-11-01 | 1 |
 | 2026-11-03 | 1 |
+| 2026-11-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 42% |
-| Database | 18 | 31% |
+| Array | 26 | 43% |
+| Database | 18 | 30% |
 | Binary Search | 13 | 22% |
+| String | 10 | 17% |
+| Hash Table | 9 | 15% |
 | Math | 9 | 15% |
-| String | 9 | 15% |
-| Hash Table | 8 | 14% |
+| Sorting | 7 | 12% |
 | Dynamic Programming | 6 | 10% |
-| Sorting | 6 | 10% |
 | Heap (Priority Queue) | 5 | 8% |
 | Two Pointers | 4 | 7% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 50 |
+| [Array](Topics/array/) | 52 |
 | [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 15 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -71,7 +71,7 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 19 |
+| [Hash Table](Topics/hash-table/) | 20 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Interactive](Topics/interactive/) | 1 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
@@ -94,9 +94,9 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 6 |
-| [Sorting](Topics/sorting/) | 12 |
+| [Sorting](Topics/sorting/) | 13 |
 | [Stack](Topics/stack/) | 7 |
-| [String](Topics/string/) | 29 |
+| [String](Topics/string/) | 30 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
