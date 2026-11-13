@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-01T18:07:29.723Z",
+  "updatedAt": "2026-11-13T14:06:44.819Z",
   "problems": [
     {
       "frontendId": "17",
@@ -84,6 +84,26 @@
           "path": "0044-wildcard-matching/0044-wildcard-matching.cpp",
           "sha": "400e6ba92ac17e61347bc8fd500bc502b129275e",
           "lastSyncedAt": "2026-08-19T18:05:12.994Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0049-group-anagrams.cpp",
+          "path": "0049-group-anagrams/0049-group-anagrams.cpp",
+          "sha": "f2cf003df38b1d93e2bea955692e089f8dbbbc6f",
+          "lastSyncedAt": "2026-11-13T14:06:44.819Z"
         }
       ]
     },
