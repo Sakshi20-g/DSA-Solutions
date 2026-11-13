@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-01T18:07:29.723Z",
+  "updatedAt": "2026-11-13T14:06:44.819Z",
   "problems": [
     {
       "frontendId": "12",
@@ -44,6 +44,26 @@
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.cpp",
           "sha": "adfc9e35976490f4c2a734f38d2140abb4bd84de",
           "lastSyncedAt": "2026-11-01T18:07:29.723Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0049-group-anagrams.cpp",
+          "path": "0049-group-anagrams/0049-group-anagrams.cpp",
+          "sha": "f2cf003df38b1d93e2bea955692e089f8dbbbc6f",
+          "lastSyncedAt": "2026-11-13T14:06:44.819Z"
         }
       ]
     },
