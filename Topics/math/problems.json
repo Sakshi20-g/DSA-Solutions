@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-03T18:02:15.877Z",
+  "updatedAt": "2026-11-26T17:29:51.797Z",
   "problems": [
     {
       "frontendId": "12",
@@ -204,6 +204,26 @@
           "path": "2442-count-number-of-distinct-integers-after-reverse-operations/2442-count-number-of-distinct-integers-after-reverse-operations.cpp",
           "sha": "cbd908501f9a0165533daecf8cfaed8d36e4c752",
           "lastSyncedAt": "2026-10-18T15:08:10.971Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3360",
+      "title": "Stone Removal Game",
+      "slug": "stone-removal-game",
+      "problemName": "3360-stone-removal-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-removal-game/",
+      "folderPath": "3360-stone-removal-game/",
+      "readmePath": "3360-stone-removal-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3360-stone-removal-game.cpp",
+          "path": "3360-stone-removal-game/3360-stone-removal-game.cpp",
+          "sha": "8d07e680bce5f7f61c9927bdcf60039424101d03",
+          "lastSyncedAt": "2026-11-26T17:29:51.797Z"
         }
       ]
     },
